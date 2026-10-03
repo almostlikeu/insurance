@@ -1,0 +1,2495 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-10-03T08:45:10Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7017905358",
+        "addr:district": "Moradabad",
+        "addr:full": "Near Ambedkar Park Civil Lines",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Varshney Eye and Ortho Care Center",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7667021,
+          28.8470953
+        ]
+      },
+      "id": "node/7017905358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7018033072",
+        "addr:district": "Moradabad",
+        "addr:full": "Aashana 1st , Near Dharam Kata",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "Sadbhawana Nursing Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7432797,
+          28.8773526
+        ]
+      },
+      "id": "node/7018033072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7018041582",
+        "addr:district": "Moradabad",
+        "addr:full": "Near Dayanand Girls Degree College, Infornt Of Homegurad Office,Civil Lines",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "Shekhar Hospital Kidney and Stone Clinic",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.770012,
+          28.8489049
+        ]
+      },
+      "id": "node/7018041582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7018201580",
+        "addr:district": "Moradabad",
+        "addr:full": "Lajpat Nagar",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Sanjeevan Medicare",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.780832,
+          28.8237288
+        ]
+      },
+      "id": "node/7018201580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7018342657",
+        "addr:district": "Moradabad",
+        "addr:full": "D-9 Ram Ganga Vihar Phase-11,Mit Road",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Madan Maternity and Laproscopic Surgery Centre",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7532883,
+          28.8712563
+        ]
+      },
+      "id": "node/7018342657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7018342697",
+        "addr:district": "Moradabad",
+        "addr:full": "A-36 Jigar Colony",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Khare Surgical Centre",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7709829,
+          28.8523971
+        ]
+      },
+      "id": "node/7018342697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7018564228",
+        "addr:district": "Moradabad",
+        "addr:full": "H - 1 Lajpat Nagarm",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "Vardan Nursing Home - Moradabad",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7800311,
+          28.8262464
+        ]
+      },
+      "id": "node/7018564228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7018698066",
+        "addr:district": "Moradabad",
+        "addr:full": "160, Avas Vikas Colony, Civil Lines, Pili Kothi",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Krishna Heart Centre",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7635874,
+          28.8462678
+        ]
+      },
+      "id": "node/7018698066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7019285048",
+        "addr:district": "Moradabad",
+        "addr:full": "B-65, Gandhi Nagar",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Shivam Nursing Home, Moradabad",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7718473,
+          28.8287627
+        ]
+      },
+      "id": "node/7019285048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7019366048",
+        "addr:district": "Moradabad",
+        "addr:full": "Tube Well Colony, Opp Police Hosiptal",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "Mansi Nursing Home, Moradabad",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7578253,
+          28.8565846
+        ]
+      },
+      "id": "node/7019366048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7019366053",
+        "addr:district": "Moradabad",
+        "addr:full": "Opposite Reserv Police Line",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Chiranjeev Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7691067,
+          28.8509277
+        ]
+      },
+      "id": "node/7019366053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7019667616",
+        "addr:district": "Moradabad",
+        "addr:full": "Near Harthala Police Chowky & Dainik Jagran Press",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Anoushka Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.745636,
+          28.8693656
+        ]
+      },
+      "id": "node/7019667616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7019667628",
+        "addr:district": "Moradabad",
+        "addr:full": "1-54, Gandhi Nagar , Behind Roadways",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Shreya Hospital, Moradabad",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7727022,
+          28.8282051
+        ]
+      },
+      "id": "node/7019667628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7020474646",
+        "addr:district": "Moradabad",
+        "addr:full": "Deputy Ganj Choraha",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "Batra Nursing Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7734821,
+          28.8458989
+        ]
+      },
+      "id": "node/7020474646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7020482638",
+        "addr:district": "Moradabad",
+        "addr:full": "A-93, Ghandhi Nagar, Near Chaddha Cinema Prince Road",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Mahanagar Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7704344,
+          28.8295893
+        ]
+      },
+      "id": "node/7020482638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7020596602",
+        "addr:district": "Moradabad",
+        "addr:full": "A-83 Ghandhi Nagar Opp Bharat Bangut Hall Prirce Road",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Vivek Netralaya",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7736128,
+          28.8287762
+        ]
+      },
+      "id": "node/7020596602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7020612903",
+        "addr:district": "Moradabad",
+        "addr:full": "Kunth Road , Near M D A Office",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Asian Vivekananda Hospital and Research Center",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7367177,
+          28.8838278
+        ]
+      },
+      "id": "node/7020612903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7020813547",
+        "addr:district": "Moradabad",
+        "addr:full": "Civil Lines",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "D L Nursing Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7721309,
+          28.8488321
+        ]
+      },
+      "id": "node/7020813547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7020825296",
+        "addr:district": "Moradabad",
+        "addr:full": "Prem Nagar, Post Kazipura,Kanth Road,Near Kothiwal Dental College",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Cosmos Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7291995,
+          28.894155
+        ]
+      },
+      "id": "node/7020825296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7021128437",
+        "addr:district": "Moradabad",
+        "addr:full": "9, Avas Vikas , Pili Kohti , Opposite Rani Preetam School",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "Shubham Nursing Home, Moradabad",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7634097,
+          28.8466906
+        ]
+      },
+      "id": "node/7021128437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7024787327",
+        "addr:district": "Moradabad",
+        "addr:full": "149, Avas Vikas Civil Lines",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "Brahma Netralaya",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7629914,
+          28.8451587
+        ]
+      },
+      "id": "node/7024787327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7024853702",
+        "addr:district": "Moradabad",
+        "addr:full": "Lia Manzil,Faizganj",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "Hasan Nursing Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7875719,
+          28.8351629
+        ]
+      },
+      "id": "node/7024853702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7024891215",
+        "addr:district": "Moradabad",
+        "addr:full": "Near Moradabad Club ,Civil Lines",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "District Eye Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7618329,
+          28.8428091
+        ]
+      },
+      "id": "node/7024891215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7025001149",
+        "addr:district": "Moradabad",
+        "addr:full": "Ramganga Vihar Phase -2 (Ext) , Opposite T.D.I City",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "C.L. Gupta Eye Institute",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7492812,
+          28.878958
+        ]
+      },
+      "id": "node/7025001149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7025046373",
+        "addr:district": "Moradabad",
+        "addr:full": "Prakash Nagar Chowk, Majhola Road, Linepar",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "Harsh Nursing Home and Maternity Centre",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7524956,
+          28.8329701
+        ]
+      },
+      "id": "node/7025046373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7025117448",
+        "addr:district": "Moradabad",
+        "addr:full": "Vi11- Bagarpur,Pakwara. N.H.24. Delhi Road",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Teerthankar Mahaveer Hospital and Research Centre",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7350292,
+          28.8271842
+        ]
+      },
+      "id": "node/7025117448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7025117484",
+        "addr:district": "Moradabad",
+        "addr:full": "8 A / 6, New Civil Lines, Behind Jail Garden",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "Modern Nursing Home - Moradabad",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7688398,
+          28.8395847
+        ]
+      },
+      "id": "node/7025117484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7025126576",
+        "addr:district": "Moradabad",
+        "addr:full": "A-33, Lajpat Nagar",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "Upasana Diabetes Care Centre and Nursing Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7814704,
+          28.8236019
+        ]
+      },
+      "id": "node/7025126576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7025223748",
+        "addr:district": "Moradabad",
+        "addr:full": "Ballam Street ,Mandi Chowk",
+        "addr:postcode": "244102",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Navjeevan Child Care Centre",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7819438,
+          28.8349536
+        ]
+      },
+      "id": "node/7025223748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7025340463",
+        "addr:district": "Moradabad",
+        "addr:full": "A-4, Gandhi Nagar",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "C P Eye Care Center",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7721617,
+          28.8273316
+        ]
+      },
+      "id": "node/7025340463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7025389461",
+        "addr:district": "Moradabad",
+        "addr:full": "Central Medical & Maternity Care,Station Road",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Central Medical and Maternity Care",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.748904,
+          28.8647528
+        ]
+      },
+      "id": "node/7025389461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7025432829",
+        "addr:district": "Moradabad",
+        "addr:full": "Gulzarimal Dharamshala Road",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "M M Hospitals",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7699234,
+          28.8369191
+        ]
+      },
+      "id": "node/7025432829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7025610766",
+        "addr:district": "Moradabad",
+        "addr:full": "A-288, 289, Ashiana Phase-1 Kanth Road",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "Muskan Nursing Home, Moradabad",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7426266,
+          28.8773456
+        ]
+      },
+      "id": "node/7025610766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7027053442",
+        "addr:district": "Moradabad",
+        "addr:full": "19, Civil Lines, Near Wilsonia School",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Dev Eye Care",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7674303,
+          28.8456029
+        ]
+      },
+      "id": "node/7027053442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7027427186",
+        "addr:district": "Moradabad",
+        "addr:full": "Company Bagh, Civil Lines",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "Kumar Nursing Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7670428,
+          28.8430267
+        ]
+      },
+      "id": "node/7027427186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7027732218",
+        "addr:district": "Moradabad",
+        "addr:full": "Behind P.N.B Civil Lines",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Shreekiran Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7680934,
+          28.8433745
+        ]
+      },
+      "id": "node/7027732218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7027932219",
+        "addr:district": "Moradabad",
+        "addr:full": "430,Avas Vikas,Civil lines,Kanth Road,Nr Rani Preetam School",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Yash Hospital, Moradabad",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7632704,
+          28.8473794
+        ]
+      },
+      "id": "node/7027932219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7027932235",
+        "addr:district": "Moradabad",
+        "addr:full": "A-13 Lajpat Nagar Colony",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "Uphar Nursing Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7811285,
+          28.8240952
+        ]
+      },
+      "id": "node/7027932235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7028065231",
+        "addr:district": "Moradabad",
+        "addr:full": "City Clinic, Chowk Tarikhana",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "email": "infomoradabad@centreforsight.net",
+        "healthcare": "hospital",
+        "name": "Centre For Sight",
+        "operator:type": "private",
+        "source": "OpenGovernmentData",
+        "website": "https://www.centreforsight.net/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7781431,
+          28.8320541
+        ]
+      },
+      "id": "node/7028065231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7028466074",
+        "addr:district": "Moradabad",
+        "addr:full": "A-1/142 Mansarowar Coloney",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Siddhi Vinayak Health Care Centre",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7742391,
+          28.8272618
+        ]
+      },
+      "id": "node/7028466074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7028861810",
+        "addr:district": "Moradabad",
+        "addr:full": "5, Awas Vikas, Pili Kothi",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Apollo Laser Netra Chikatsalaya",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7628136,
+          28.8472069
+        ]
+      },
+      "id": "node/7028861810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7029213907",
+        "addr:district": "Moradabad",
+        "addr:full": "Kanth Road, Near Madhubani Par",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Surbhi Mother and Child Care",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7489848,
+          28.8647106
+        ]
+      },
+      "id": "node/7029213907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7029288993",
+        "addr:district": "Moradabad",
+        "addr:full": "117, Awas Vikas Civil Lines",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "Shah E N T Centre",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7628592,
+          28.8449773
+        ]
+      },
+      "id": "node/7029288993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7029319393",
+        "addr:district": "Moradabad",
+        "addr:full": "Dayanand Degree Girls College Civil Lines",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Bhavya Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7709481,
+          28.848048
+        ]
+      },
+      "id": "node/7029319393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7030589670",
+        "addr:district": "Moradabad",
+        "addr:full": "State Bank Colony, Civil Lines",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "S.S Hospital and Nursing Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7687496,
+          28.8476919
+        ]
+      },
+      "id": "node/7030589670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7030593046",
+        "addr:district": "Moradabad",
+        "addr:full": "State Bank Colony, Civil Lines",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Srijan Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7693829,
+          28.8477015
+        ]
+      },
+      "id": "node/7030593046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7030696574",
+        "addr:district": "Moradabad",
+        "addr:full": "A 97, Opp. Maida Mill, NH 24, Lajpat Nagar",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "Moradabad Nursing Home, Moradabad",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7808655,
+          28.822609
+        ]
+      },
+      "id": "node/7030696574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7030999386",
+        "addr:district": "Moradabad",
+        "addr:full": "Ram Ganga Vihar Phase - Ii,Near Wilsonia Degree College",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "Gupta Nursing Home, Moradabad",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7460265,
+          28.8794677
+        ]
+      },
+      "id": "node/7030999386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7031050000",
+        "addr:district": "Moradabad",
+        "addr:full": "A-514, Lajpat Nagar Near Roadways Workshop",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Sri Lohia Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7814295,
+          28.8222918
+        ]
+      },
+      "id": "node/7031050000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7033003041",
+        "addr:district": "Moradabad",
+        "addr:full": "A-9, Gandhi Nagar , Near Roadways Bus Stand ,Rampur Road",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Heart Care and Pathology Centre",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7743531,
+          28.8266919
+        ]
+      },
+      "id": "node/7033003041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7033281663",
+        "addr:district": "Moradabad",
+        "addr:full": "2/433,Budhi Bihar Khushalpur Road,Near Mahilal Public School",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "Agrawal Nursing Home, Moradabad",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7410394,
+          28.8378531
+        ]
+      },
+      "id": "node/7033281663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7033564748",
+        "addr:district": "Moradabad",
+        "addr:full": "Mora Mustqueem, Kanth Road",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Sahu Rameshwar Saran Kothiwal Hospital and Heart Car",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7462422,
+          28.8800477
+        ]
+      },
+      "id": "node/7033564748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7033564749",
+        "addr:district": "Moradabad",
+        "addr:full": "Opposite Wilsonia School, Civil Lines",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "Shah Surgical Nursing Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7701957,
+          28.8496731
+        ]
+      },
+      "id": "node/7033564749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7033706728",
+        "addr:district": "Moradabad",
+        "addr:full": "C-2/11, Mansarovar Colony Dehli Road",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "Mansarovar Nursing Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7531154,
+          28.8363305
+        ]
+      },
+      "id": "node/7033706728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7035294908",
+        "addr:district": "Moradabad",
+        "addr:full": "Parker College Road Chowk Tarikhana",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Rajani Eye and Dental Clinic",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7675866,
+          28.8365578
+        ]
+      },
+      "id": "node/7035294908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7035858481",
+        "addr:district": "Moradabad",
+        "addr:full": "A 1/124, Mansarover Colony Delhi Road",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "Paras Nursing Home and Orthopaedic Center",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7532502,
+          28.8360909
+        ]
+      },
+      "id": "node/7035858481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7037504368",
+        "addr:district": "Moradabad",
+        "addr:full": "Fortis Vivekanand Hospital, Kanth Road",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "email": "infomoradabad@centreforsight.net",
+        "name": "Centre For Sight",
+        "operator:type": "private",
+        "source": "OpenGovernmentData",
+        "website": "https://www.centreforsight.net/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7376712,
+          28.8854078
+        ]
+      },
+      "id": "node/7037504368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7037723221",
+        "addr:district": "Moradabad",
+        "addr:full": "Civil Lines , Near Wilsonia School",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Halberg Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7663132,
+          28.847285
+        ]
+      },
+      "id": "node/7037723221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7038593410",
+        "addr:district": "Moradabad",
+        "addr:full": "A-75, Prince Road",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "Jeevan Deep Nursing Home, Moradabad",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7748433,
+          28.8285606
+        ]
+      },
+      "id": "node/7038593410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7039962719",
+        "addr:district": "Moradabad",
+        "addr:full": "Opp Dusst Hospital , Ner Ambedkar Park , Civil Lines",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "check_date": "2024-03-06",
+        "name": "Asha Deep Hospital",
+        "name:hi": "आशा दीप अस्पताल",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7674572,
+          28.8456346
+        ]
+      },
+      "id": "node/7039962719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7039966055",
+        "addr:district": "Moradabad",
+        "addr:full": "Opp Balaji Mandir , Near District Co-Operative Bank, Court Road",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "Chirag Nursing Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7771158,
+          28.8230179
+        ]
+      },
+      "id": "node/7039966055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7164804392",
+        "addr:block": "Moradabad Sadar",
+        "addr:district": "Moradabad",
+        "addr:full": "District Female Hospital",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "description": "District Hospital",
+        "name": "District Female Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7653503,
+          28.8487698
+        ]
+      },
+      "id": "node/7164804392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7189279471",
+        "addr:block": "Moradabad Sadar",
+        "addr:district": "Moradabad",
+        "addr:full": "District Hospital",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "description": "District Hospital",
+        "name": "District Hospital, Morabad",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7660731,
+          28.8479311
+        ]
+      },
+      "id": "node/7189279471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7492121939",
+        "addr:district": "Moradabad",
+        "addr:full": "Ashiyana Colony, Moradabad",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Chiron Children's Superspeciality Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7456842,
+          28.8797745
+        ]
+      },
+      "id": "node/7492121939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7492121940",
+        "addr:district": "Moradabad",
+        "addr:full": "Police Station, Prince Road, Opp. Indira Chowk, Basantapur, Chhajlet, Moradabad",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Darul Shifa Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7846978,
+          28.8309142
+        ]
+      },
+      "id": "node/7492121940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7492121944",
+        "addr:district": "Moradabad",
+        "addr:full": "Chowk Tari Khana, Court Road, Moradabad",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Bajaj Eye Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7685131,
+          28.837713
+        ]
+      },
+      "id": "node/7492121944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7492121945",
+        "addr:district": "Moradabad",
+        "addr:full": "Serua Dharampur",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Ram Rahim Charitable Eye Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7088391,
+          28.9195609
+        ]
+      },
+      "id": "node/7492121945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7492121946",
+        "addr:district": "Moradabad",
+        "addr:full": "Prince Road, Hayat Nagar, Katghar, Moradabad",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Dr.Nazim's Mahanagar Hospital, Moradabad",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7852152,
+          28.8307694
+        ]
+      },
+      "id": "node/7492121946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7492121949",
+        "addr:district": "Moradabad",
+        "addr:full": "Ram Ganga Bridge, Gulabwadi Chungi, Katghar, Moradabad",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Govind Ram Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7969188,
+          28.8210982
+        ]
+      },
+      "id": "node/7492121949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7492121952",
+        "addr:district": "Moradabad",
+        "addr:full": "Ashiyana Colony, Moradabad",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Janta Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.743387,
+          28.8779324
+        ]
+      },
+      "id": "node/7492121952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7492121953",
+        "addr:district": "Moradabad",
+        "addr:full": "Near Safaya Benket Hall, Ashiyana Colony, Mora Mustahkam, Harthala, Moradabad",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Yug Hospital Moradabad",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7454835,
+          28.8794114
+        ]
+      },
+      "id": "node/7492121953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7492121956",
+        "addr:district": "Moradabad",
+        "addr:full": "B-798, Asim Bihari School Road, Adarsh Nagar, Lajpat Nagar, Moradabad",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Anna Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7844004,
+          28.8244196
+        ]
+      },
+      "id": "node/7492121956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7492121957",
+        "addr:district": "Moradabad",
+        "addr:full": "Near Police Station, Civil Lines, Moradabad",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "Dr Rajat Shekhar, Hirdeya Cardiac Lab",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7663046,
+          28.8505432
+        ]
+      },
+      "id": "node/7492121957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7492121958",
+        "addr:district": "Moradabad",
+        "addr:full": "Sarai Khalsa, Civil Lines, Moradabad",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "check_date": "2024-03-06",
+        "name": "Dhanwantri Superspeciality Hospital",
+        "name:hi": "धनवन्त्री सुपर स्पेशलटी अस्पताल",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7706806,
+          28.8429233
+        ]
+      },
+      "id": "node/7492121958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7492121960",
+        "addr:district": "Moradabad",
+        "addr:full": "Gandhi Nagar, Near Chaddha Cinema, Moradabad",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Navin Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7717164,
+          28.8290935
+        ]
+      },
+      "id": "node/7492121960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7492121961",
+        "addr:district": "Moradabad",
+        "addr:full": "Near Cl Gupta World School, Ram Ganga Vihar Phase 2, Moradabad",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Galaxy Surgical and Maternity Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7487572,
+          28.8758492
+        ]
+      },
+      "id": "node/7492121961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7492121962",
+        "addr:district": "Moradabad",
+        "addr:full": "Railway Colony Road, Civil Lines, Moradabad",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Dmr Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7629299,
+          28.838886
+        ]
+      },
+      "id": "node/7492121962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7492121963",
+        "addr:district": "Moradabad",
+        "addr:full": "Kanth Road, Mohra Ki Milak, Bhatawali Mustahkam",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Kothiwal Hospital's",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.728494,
+          28.8962737
+        ]
+      },
+      "id": "node/7492121963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7492121966",
+        "addr:district": "Moradabad",
+        "addr:full": "Near Pvr Cinema, Harthala, Moradabad",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Siddh Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.739728,
+          28.877752
+        ]
+      },
+      "id": "node/7492121966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7492121972",
+        "addr:district": "Moradabad",
+        "addr:full": "Near Majholi Chauraha, Delhi Road, Moradabad",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Apex Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7453792,
+          28.8335268
+        ]
+      },
+      "id": "node/7492121972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7492121973",
+        "addr:district": "Moradabad",
+        "addr:full": "Pital Nagri, Moradabad",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Mahendra Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7840892,
+          28.80667
+        ]
+      },
+      "id": "node/7492121973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7492121974",
+        "addr:district": "Moradabad",
+        "addr:full": "Rampur Road, Near Pital Nagri, Moradabad",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "J.R Hospital Heart Care Neuro Care Maternity and General Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.8074619,
+          28.8267194
+        ]
+      },
+      "id": "node/7492121974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7492121978",
+        "addr:district": "Moradabad",
+        "addr:full": "Gandhi Nagar, Moradabad",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Metro Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7734069,
+          28.8255163
+        ]
+      },
+      "id": "node/7492121978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7492121979",
+        "addr:district": "Moradabad",
+        "addr:full": "Moradabad",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "PAC Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7497469,
+          28.8586724
+        ]
+      },
+      "id": "node/7492121979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7492121980",
+        "addr:district": "Moradabad",
+        "addr:full": "Lajpat Nagar, Moradabad",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Sultan Laparoscopy Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7829458,
+          28.8235645
+        ]
+      },
+      "id": "node/7492121980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7492121982",
+        "addr:district": "Moradabad",
+        "addr:full": "Ashiyana Colony, Mora Mustahkam, Moradabad",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Divyakriti Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7422523,
+          28.8834069
+        ]
+      },
+      "id": "node/7492121982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7492121985",
+        "addr:district": "Moradabad",
+        "addr:full": "Gandhi Nagar, Moradabad",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Singh Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7737622,
+          28.8281995
+        ]
+      },
+      "id": "node/7492121985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7492121986",
+        "addr:district": "Moradabad",
+        "addr:full": "Ashiyana Colony, Mora Mustahkam, Harthala, Moradabad",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Orthomax Hospital & Trauma Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7392598,
+          28.8805647
+        ]
+      },
+      "id": "node/7492121986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7492121987",
+        "addr:district": "Moradabad",
+        "addr:full": "Delhi Road, Mansarover Colony, Line Par, Moradabad",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Sri Sai Super Speciality Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7528738,
+          28.8399974
+        ]
+      },
+      "id": "node/7492121987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7492121989",
+        "addr:district": "Moradabad",
+        "addr:full": "Prem Nagar Industrial Area, Moradabad",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Crest Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7306372,
+          28.8906679
+        ]
+      },
+      "id": "node/7492121989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7492121991",
+        "addr:district": "Moradabad",
+        "addr:full": "Near Faiz Ganj Police Chowki, Faiz Ganj Road, Mohammad Ali Road, Moradabad",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Chaman Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7861276,
+          28.83525
+        ]
+      },
+      "id": "node/7492121991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7492121992",
+        "addr:district": "Moradabad",
+        "addr:full": "Kashipur Road, Rampur Douraha, Near By Satsang, Moradabad",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Photon Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.8253331,
+          28.8586224
+        ]
+      },
+      "id": "node/7492121992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7492121994",
+        "addr:district": "Moradabad",
+        "addr:full": "Khushhalpur Road, Vikas Colony, Buddhi Vihar, Moradabad",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Tirupati Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7420646,
+          28.8371339
+        ]
+      },
+      "id": "node/7492121994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7492121995",
+        "addr:district": "Moradabad",
+        "addr:full": "South Ekta Vihar, Near Bijli Ghar, Rampur, Doraha",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "We Care Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.8292048,
+          28.8385284
+        ]
+      },
+      "id": "node/7492121995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7492121996",
+        "addr:district": "Moradabad",
+        "addr:full": "Takht Wali Masjid,Moradabad",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Jamila Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.777383,
+          28.8404776
+        ]
+      },
+      "id": "node/7492121996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7492121997",
+        "addr:district": "Moradabad",
+        "addr:full": "Ram Ganga Vihar, Deen Dayal Nagar-II, Moradabad",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Maryada Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7505386,
+          28.8650133
+        ]
+      },
+      "id": "node/7492121997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7492122000",
+        "addr:district": "Moradabad",
+        "addr:full": "Gandhi Nagar, Moradabad",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Medicity Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.772344,
+          28.829017
+        ]
+      },
+      "id": "node/7492122000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7492122001",
+        "addr:district": "Moradabad",
+        "addr:full": "Buddhi Vihar, Moradabad",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "V V N Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7733215,
+          28.8386591
+        ]
+      },
+      "id": "node/7492122001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7492122003",
+        "addr:district": "Moradabad",
+        "addr:full": "Adarsh Nagar, Lajpat Nagar, Moradabad",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Blessing Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7809607,
+          28.8223081
+        ]
+      },
+      "id": "node/7492122003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7492122005",
+        "addr:district": "Moradabad",
+        "addr:full": "Near Tara Building, Jabbu Ka Nala Road, Deputy Gunj, Daulat Bagh, Moradabad",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Ahmad Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7748155,
+          28.8441709
+        ]
+      },
+      "id": "node/7492122005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7492122008",
+        "addr:district": "Moradabad",
+        "addr:full": "Lajpat Nagar, Water Tank Road, Moradabad",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Royal Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7826943,
+          28.825443
+        ]
+      },
+      "id": "node/7492122008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7492122009",
+        "addr:district": "Moradabad",
+        "addr:full": "Parker College Road, Budh Bazaar, Moradabad",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Dr Dutt Children Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7670889,
+          28.8364711
+        ]
+      },
+      "id": "node/7492122009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7492122010",
+        "addr:district": "Moradabad",
+        "addr:full": "Patnagarh, Pat Pat Sarai, Moradabad",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Muzaffar Child Care & Birth Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7758726,
+          28.8413943
+        ]
+      },
+      "id": "node/7492122010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7492122011",
+        "addr:district": "Moradabad",
+        "addr:full": "Civil Lines, Moradabad",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Central Police Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7600645,
+          28.8560708
+        ]
+      },
+      "id": "node/7492122011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7492122012",
+        "addr:district": "Moradabad",
+        "addr:full": "Jigar Colony, Moradabad",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Jigar Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7709303,
+          28.8551866
+        ]
+      },
+      "id": "node/7492122012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7492122013",
+        "addr:district": "Moradabad",
+        "addr:full": "Kothiwal Nagar, Moradabad",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Kilkari Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7728061,
+          28.8336955
+        ]
+      },
+      "id": "node/7492122013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7492122014",
+        "addr:district": "Moradabad",
+        "addr:full": "Jail Road, Gurhatti, Civil Lines, Moradabad",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "clinic",
+        "name": "P.P. Eye Clinic",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7694343,
+          28.8429866
+        ]
+      },
+      "id": "node/7492122014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7492122015",
+        "addr:district": "Moradabad",
+        "addr:full": "Prabhat Market, Near Saggu Palace",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Synergy Superspeciality Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.785138,
+          28.821741
+        ]
+      },
+      "id": "node/7492122015"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7492122018",
+        "addr:district": "Moradabad",
+        "addr:full": "Harthala, Moradabad",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Vivekananda Hospital, Harthala",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7348487,
+          28.8759223
+        ]
+      },
+      "id": "node/7492122018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7492122020",
+        "addr:district": "Moradabad",
+        "addr:full": "Hayat Nagar, Katghar, Moradabad",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Raj Dental Speciality Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.793199,
+          28.8252204
+        ]
+      },
+      "id": "node/7492122020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7492122022",
+        "addr:district": "Moradabad",
+        "addr:full": "Lajpat Nagar, Moradabad",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Sahara Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7814011,
+          28.8257057
+        ]
+      },
+      "id": "node/7492122022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7492122023",
+        "addr:district": "Moradabad",
+        "addr:full": "Near Milglani Theatre, Gandhi Nagar, Moradabad",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Anand Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.776,
+          28.824701
+        ]
+      },
+      "id": "node/7492122023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7492122024",
+        "addr:district": "Moradabad",
+        "addr:full": "Pili Kothi, Near Civil Lines, Moradabad",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "National Hospital & Kideny Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.766334,
+          28.847337
+        ]
+      },
+      "id": "node/7492122024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7492122026",
+        "addr:district": "Moradabad",
+        "addr:full": "Ram Ganga Vihar Phase 2, Moradabad",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Rsd Hospital and Research Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7545477,
+          28.8728949
+        ]
+      },
+      "id": "node/7492122026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7492122027",
+        "addr:district": "Moradabad",
+        "addr:full": "Gandhi Nagar , Moradabad",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Yashoda Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.771386,
+          28.828586
+        ]
+      },
+      "id": "node/7492122027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7492122030",
+        "addr:district": "Moradabad",
+        "addr:full": "New Moradabad",
+        "addr:postcode": "244102",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "name": "Brightstar Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6985299,
+          28.8344214
+        ]
+      },
+      "id": "node/7492122030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7492122033",
+        "addr:district": "Moradabad",
+        "addr:full": "A-40, Lane Number 4, Gandhi Nagar, Moradabad",
+        "addr:postcode": "244001",
+        "addr:state": "Uttar Pradesh",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Dr. PK Khanna Children Hospital and Diagnostic Lab",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.772155,
+          28.82729
+        ]
+      },
+      "id": "node/7492122033"
+    }
+  ]
+}

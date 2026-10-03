@@ -1,0 +1,2235 @@
+[
+  {
+    "id": "node_7017905358",
+    "name": "Varshney Eye and Ortho Care Center",
+    "category": "hospital",
+    "address": "Near Ambedkar Park Civil Lines",
+    "locality": "Civil Lines",
+    "pincode": "244001",
+    "latitude": 28.8470953,
+    "longitude": 78.7667021,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7018033072",
+    "name": "Sadbhawana Nursing Home",
+    "category": "clinic",
+    "address": "Aashana 1st , Near Dharam Kata",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.8773526,
+    "longitude": 78.7432797,
+    "phone": "9837039830",
+    "facilities": {
+      "emergency_24x7": false,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": true
+    }
+  },
+  {
+    "id": "node_7018041582",
+    "name": "Shekhar Hospital Kidney and Stone Clinic",
+    "category": "clinic",
+    "address": "Near Dayanand Girls Degree College, Infornt Of Homegurad Office,Civil Lines",
+    "locality": "Civil Lines",
+    "pincode": "244001",
+    "latitude": 28.8489049,
+    "longitude": 78.770012,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": false,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7018201580",
+    "name": "Sanjeevan Medicare",
+    "category": "hospital",
+    "address": "Lajpat Nagar",
+    "locality": "Lajpat Nagar",
+    "pincode": "244001",
+    "latitude": 28.8237288,
+    "longitude": 78.780832,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7018342657",
+    "name": "Madan Maternity and Laproscopic Surgery Centre",
+    "category": "hospital",
+    "address": "D-9 Ram Ganga Vihar Phase-11,Mit Road",
+    "locality": "Ram Ganga Vihar",
+    "pincode": "244001",
+    "latitude": 28.8712563,
+    "longitude": 78.7532883,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7018342697",
+    "name": "Khare Surgical Centre",
+    "category": "hospital",
+    "address": "A-36 Jigar Colony",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.8523971,
+    "longitude": 78.7709829,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7018564228",
+    "name": "Vardan Nursing Home - Moradabad",
+    "category": "clinic",
+    "address": "H - 1 Lajpat Nagarm",
+    "locality": "Lajpat Nagar",
+    "pincode": "244001",
+    "latitude": 28.8262464,
+    "longitude": 78.7800311,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": false,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7018698066",
+    "name": "Krishna Heart Centre",
+    "category": "hospital",
+    "address": "160, Avas Vikas Colony, Civil Lines, Pili Kothi",
+    "locality": "Civil Lines",
+    "pincode": "244001",
+    "latitude": 28.8462678,
+    "longitude": 78.7635874,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": true,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7019285048",
+    "name": "Shivam Nursing Home, Moradabad",
+    "category": "clinic",
+    "address": "B-65, Gandhi Nagar",
+    "locality": "Gandhi Nagar",
+    "pincode": "244001",
+    "latitude": 28.8287627,
+    "longitude": 78.7718473,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": false,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7019366048",
+    "name": "Mansi Nursing Home, Moradabad",
+    "category": "clinic",
+    "address": "Tube Well Colony, Opp Police Hosiptal",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.8565846,
+    "longitude": 78.7578253,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": false,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7019366053",
+    "name": "Chiranjeev Hospital",
+    "category": "hospital",
+    "address": "Opposite Reserv Police Line",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.8509277,
+    "longitude": 78.7691067,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7019667616",
+    "name": "Anoushka Hospital",
+    "category": "hospital",
+    "address": "Near Harthala Police Chowky & Dainik Jagran Press",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.8693656,
+    "longitude": 78.745636,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7019667628",
+    "name": "Shreya Hospital, Moradabad",
+    "category": "hospital",
+    "address": "1-54, Gandhi Nagar , Behind Roadways",
+    "locality": "Gandhi Nagar",
+    "pincode": "244001",
+    "latitude": 28.8282051,
+    "longitude": 78.7727022,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7020474646",
+    "name": "Batra Nursing Home",
+    "category": "clinic",
+    "address": "Deputy Ganj Choraha",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.8458989,
+    "longitude": 78.7734821,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": false,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7020482638",
+    "name": "Mahanagar Hospital",
+    "category": "hospital",
+    "address": "A-93, Ghandhi Nagar, Near Chaddha Cinema Prince Road",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.8295893,
+    "longitude": 78.7704344,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7020596602",
+    "name": "Vivek Netralaya",
+    "category": "hospital",
+    "address": "A-83 Ghandhi Nagar Opp Bharat Bangut Hall Prirce Road",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.8287762,
+    "longitude": 78.7736128,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7020612903",
+    "name": "Asian Vivekananda Hospital and Research Center",
+    "category": "hospital",
+    "address": "Kunth Road , Near M D A Office",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.8838278,
+    "longitude": 78.7367177,
+    "phone": "0591-2551100",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": true,
+      "blood_bank": false,
+      "ayushman_bharat": true
+    }
+  },
+  {
+    "id": "node_7020813547",
+    "name": "D L Nursing Home",
+    "category": "clinic",
+    "address": "Civil Lines",
+    "locality": "Civil Lines",
+    "pincode": "244001",
+    "latitude": 28.8488321,
+    "longitude": 78.7721309,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": false,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7020825296",
+    "name": "Cosmos Hospital",
+    "category": "hospital",
+    "address": "Prem Nagar, Post Kazipura,Kanth Road,Near Kothiwal Dental College",
+    "locality": "Prem Nagar",
+    "pincode": "244001",
+    "latitude": 28.894155,
+    "longitude": 78.7291995,
+    "phone": "0591-2555500",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": true,
+      "blood_bank": false,
+      "ayushman_bharat": true,
+      "cashless_insurance": true
+    }
+  },
+  {
+    "id": "node_7021128437",
+    "name": "Shubham Nursing Home, Moradabad",
+    "category": "clinic",
+    "address": "9, Avas Vikas , Pili Kohti , Opposite Rani Preetam School",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.8466906,
+    "longitude": 78.7634097,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": false,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7024787327",
+    "name": "Brahma Netralaya",
+    "category": "clinic",
+    "address": "149, Avas Vikas Civil Lines",
+    "locality": "Civil Lines",
+    "pincode": "244001",
+    "latitude": 28.8451587,
+    "longitude": 78.7629914,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": false,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7024853702",
+    "name": "Hasan Nursing Home",
+    "category": "clinic",
+    "address": "Lia Manzil,Faizganj",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.8351629,
+    "longitude": 78.7875719,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": false,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7024891215",
+    "name": "District Eye Hospital",
+    "category": "hospital",
+    "address": "Near Moradabad Club ,Civil Lines",
+    "locality": "Civil Lines",
+    "pincode": "244001",
+    "latitude": 28.8428091,
+    "longitude": 78.7618329,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": true
+    }
+  },
+  {
+    "id": "node_7025001149",
+    "name": "C.L. Gupta Eye Institute",
+    "category": "hospital",
+    "address": "Ramganga Vihar Phase -2 (Ext) , Opposite T.D.I City",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.878958,
+    "longitude": 78.7492812,
+    "phone": "8937834443",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": true
+    }
+  },
+  {
+    "id": "node_7025046373",
+    "name": "Harsh Nursing Home and Maternity Centre",
+    "category": "clinic",
+    "address": "Prakash Nagar Chowk, Majhola Road, Linepar",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.8329701,
+    "longitude": 78.7524956,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": false,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7025117448",
+    "name": "Teerthankar Mahaveer Hospital and Research Centre",
+    "category": "hospital",
+    "address": "Vi11- Bagarpur,Pakwara. N.H.24. Delhi Road",
+    "locality": "Delhi Road",
+    "pincode": "244001",
+    "latitude": 28.8271842,
+    "longitude": 78.7350292,
+    "phone": "0591-2360500",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": true,
+      "blood_bank": false,
+      "ayushman_bharat": true
+    }
+  },
+  {
+    "id": "node_7025117484",
+    "name": "Modern Nursing Home - Moradabad",
+    "category": "clinic",
+    "address": "8 A / 6, New Civil Lines, Behind Jail Garden",
+    "locality": "Civil Lines",
+    "pincode": "244001",
+    "latitude": 28.8395847,
+    "longitude": 78.7688398,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": false,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7025126576",
+    "name": "Upasana Diabetes Care Centre and Nursing Home",
+    "category": "clinic",
+    "address": "A-33, Lajpat Nagar",
+    "locality": "Lajpat Nagar",
+    "pincode": "244001",
+    "latitude": 28.8236019,
+    "longitude": 78.7814704,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": false,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7025223748",
+    "name": "Navjeevan Child Care Centre",
+    "category": "hospital",
+    "address": "Ballam Street ,Mandi Chowk",
+    "locality": "Moradabad",
+    "pincode": "244102",
+    "latitude": 28.8349536,
+    "longitude": 78.7819438,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7025340463",
+    "name": "C P Eye Care Center",
+    "category": "clinic",
+    "address": "A-4, Gandhi Nagar",
+    "locality": "Gandhi Nagar",
+    "pincode": "244001",
+    "latitude": 28.8273316,
+    "longitude": 78.7721617,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": false,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7025389461",
+    "name": "Central Medical and Maternity Care",
+    "category": "hospital",
+    "address": "Central Medical & Maternity Care,Station Road",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.8647528,
+    "longitude": 78.748904,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7025432829",
+    "name": "M M Hospitals",
+    "category": "hospital",
+    "address": "Gulzarimal Dharamshala Road",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.8369191,
+    "longitude": 78.7699234,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7025610766",
+    "name": "Muskan Nursing Home, Moradabad",
+    "category": "clinic",
+    "address": "A-288, 289, Ashiana Phase-1 Kanth Road",
+    "locality": "Kanth Road",
+    "pincode": "244001",
+    "latitude": 28.8773456,
+    "longitude": 78.7426266,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": false,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7027053442",
+    "name": "Dev Eye Care",
+    "category": "hospital",
+    "address": "19, Civil Lines, Near Wilsonia School",
+    "locality": "Civil Lines",
+    "pincode": "244001",
+    "latitude": 28.8456029,
+    "longitude": 78.7674303,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7027427186",
+    "name": "Kumar Nursing Home",
+    "category": "clinic",
+    "address": "Company Bagh, Civil Lines",
+    "locality": "Civil Lines",
+    "pincode": "244001",
+    "latitude": 28.8430267,
+    "longitude": 78.7670428,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": false,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7027732218",
+    "name": "Shreekiran Hospital",
+    "category": "hospital",
+    "address": "Behind P.N.B Civil Lines",
+    "locality": "Civil Lines",
+    "pincode": "244001",
+    "latitude": 28.8433745,
+    "longitude": 78.7680934,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7027932219",
+    "name": "Yash Hospital, Moradabad",
+    "category": "hospital",
+    "address": "430,Avas Vikas,Civil lines,Kanth Road,Nr Rani Preetam School",
+    "locality": "Civil lines",
+    "pincode": "244001",
+    "latitude": 28.8473794,
+    "longitude": 78.7632704,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7027932235",
+    "name": "Uphar Nursing Home",
+    "category": "clinic",
+    "address": "A-13 Lajpat Nagar Colony",
+    "locality": "Lajpat Nagar",
+    "pincode": "244001",
+    "latitude": 28.8240952,
+    "longitude": 78.7811285,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": false,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7028065231",
+    "name": "Centre For Sight",
+    "category": "hospital",
+    "address": "City Clinic, Chowk Tarikhana",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.8320541,
+    "longitude": 78.7781431,
+    "phone": "0591-2452405",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": true,
+      "cashless_insurance": true
+    }
+  },
+  {
+    "id": "node_7028466074",
+    "name": "Siddhi Vinayak Health Care Centre",
+    "category": "hospital",
+    "address": "A-1/142 Mansarowar Coloney",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.8272618,
+    "longitude": 78.7742391,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7028861810",
+    "name": "Apollo Laser Netra Chikatsalaya",
+    "category": "hospital",
+    "address": "5, Awas Vikas, Pili Kothi",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.8472069,
+    "longitude": 78.7628136,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7029213907",
+    "name": "Surbhi Mother and Child Care",
+    "category": "hospital",
+    "address": "Kanth Road, Near Madhubani Par",
+    "locality": "Kanth Road",
+    "pincode": "244001",
+    "latitude": 28.8647106,
+    "longitude": 78.7489848,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7029288993",
+    "name": "Shah E N T Centre",
+    "category": "clinic",
+    "address": "117, Awas Vikas Civil Lines",
+    "locality": "Civil Lines",
+    "pincode": "244001",
+    "latitude": 28.8449773,
+    "longitude": 78.7628592,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": false,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7029319393",
+    "name": "Bhavya Hospital",
+    "category": "hospital",
+    "address": "Dayanand Degree Girls College Civil Lines",
+    "locality": "Civil Lines",
+    "pincode": "244001",
+    "latitude": 28.848048,
+    "longitude": 78.7709481,
+    "phone": "0591-2970375",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": true
+    }
+  },
+  {
+    "id": "node_7030589670",
+    "name": "S.S Hospital and Nursing Home",
+    "category": "clinic",
+    "address": "State Bank Colony, Civil Lines",
+    "locality": "Civil Lines",
+    "pincode": "244001",
+    "latitude": 28.8476919,
+    "longitude": 78.7687496,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": false,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false,
+      "cashless_insurance": true
+    }
+  },
+  {
+    "id": "node_7030593046",
+    "name": "Srijan Hospital",
+    "category": "hospital",
+    "address": "State Bank Colony, Civil Lines",
+    "locality": "Civil Lines",
+    "pincode": "244001",
+    "latitude": 28.8477015,
+    "longitude": 78.7693829,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7030696574",
+    "name": "Moradabad Nursing Home, Moradabad",
+    "category": "clinic",
+    "address": "A 97, Opp. Maida Mill, NH 24, Lajpat Nagar",
+    "locality": "Lajpat Nagar",
+    "pincode": "244001",
+    "latitude": 28.822609,
+    "longitude": 78.7808655,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": false,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7030999386",
+    "name": "Gupta Nursing Home, Moradabad",
+    "category": "clinic",
+    "address": "Ram Ganga Vihar Phase - Ii,Near Wilsonia Degree College",
+    "locality": "Ram Ganga Vihar",
+    "pincode": "244001",
+    "latitude": 28.8794677,
+    "longitude": 78.7460265,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": false,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false,
+      "cashless_insurance": true
+    }
+  },
+  {
+    "id": "node_7031050000",
+    "name": "Sri Lohia Hospital",
+    "category": "hospital",
+    "address": "A-514, Lajpat Nagar Near Roadways Workshop",
+    "locality": "Lajpat Nagar",
+    "pincode": "244001",
+    "latitude": 28.8222918,
+    "longitude": 78.7814295,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7033003041",
+    "name": "Heart Care and Pathology Centre",
+    "category": "hospital",
+    "address": "A-9, Gandhi Nagar , Near Roadways Bus Stand ,Rampur Road",
+    "locality": "Gandhi Nagar",
+    "pincode": "244001",
+    "latitude": 28.8266919,
+    "longitude": 78.7743531,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": true,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7033281663",
+    "name": "Agrawal Nursing Home, Moradabad",
+    "category": "clinic",
+    "address": "2/433,Budhi Bihar Khushalpur Road,Near Mahilal Public School",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.8378531,
+    "longitude": 78.7410394,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": false,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7033564748",
+    "name": "Sahu Rameshwar Saran Kothiwal Hospital and Heart Car",
+    "category": "hospital",
+    "address": "Mora Mustqueem, Kanth Road",
+    "locality": "Kanth Road",
+    "pincode": "244001",
+    "latitude": 28.8800477,
+    "longitude": 78.7462422,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": true,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7033564749",
+    "name": "Shah Surgical Nursing Home",
+    "category": "clinic",
+    "address": "Opposite Wilsonia School, Civil Lines",
+    "locality": "Civil Lines",
+    "pincode": "244001",
+    "latitude": 28.8496731,
+    "longitude": 78.7701957,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": false,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7033706728",
+    "name": "Mansarovar Nursing Home",
+    "category": "clinic",
+    "address": "C-2/11, Mansarovar Colony Dehli Road",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.8363305,
+    "longitude": 78.7531154,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": false,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7035294908",
+    "name": "Rajani Eye and Dental Clinic",
+    "category": "hospital",
+    "address": "Parker College Road Chowk Tarikhana",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.8365578,
+    "longitude": 78.7675866,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7035858481",
+    "name": "Paras Nursing Home and Orthopaedic Center",
+    "category": "clinic",
+    "address": "A 1/124, Mansarover Colony Delhi Road",
+    "locality": "Delhi Road",
+    "pincode": "244001",
+    "latitude": 28.8360909,
+    "longitude": 78.7532502,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": false,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7037504368",
+    "name": "Centre For Sight",
+    "category": "hospital",
+    "address": "Fortis Vivekanand Hospital, Kanth Road",
+    "locality": "Kanth Road",
+    "pincode": "244001",
+    "latitude": 28.8854078,
+    "longitude": 78.7376712,
+    "phone": "0591-2452405",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": true
+    }
+  },
+  {
+    "id": "node_7037723221",
+    "name": "Halberg Hospital",
+    "category": "hospital",
+    "address": "Civil Lines , Near Wilsonia School",
+    "locality": "Civil Lines",
+    "pincode": "244001",
+    "latitude": 28.847285,
+    "longitude": 78.7663132,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7038593410",
+    "name": "Jeevan Deep Nursing Home, Moradabad",
+    "category": "clinic",
+    "address": "A-75, Prince Road",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.8285606,
+    "longitude": 78.7748433,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": false,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7039962719",
+    "name": "Asha Deep Hospital",
+    "category": "hospital",
+    "address": "Opp Dusst Hospital , Ner Ambedkar Park , Civil Lines",
+    "locality": "Civil Lines",
+    "pincode": "244001",
+    "latitude": 28.8456346,
+    "longitude": 78.7674572,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7039966055",
+    "name": "Chirag Nursing Home",
+    "category": "clinic",
+    "address": "Opp Balaji Mandir , Near District Co-Operative Bank, Court Road",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.8230179,
+    "longitude": 78.7771158,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": false,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7164804392",
+    "name": "District Female Hospital",
+    "category": "hospital",
+    "address": "District Female Hospital",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.8487698,
+    "longitude": 78.7653503,
+    "phone": "0591-2410670",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": true
+    }
+  },
+  {
+    "id": "node_7189279471",
+    "name": "District Hospital, Moradabad",
+    "category": "hospital",
+    "address": "District Hospital",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.8479311,
+    "longitude": 78.7660731,
+    "phone": "0591-2410670",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": true,
+      "blood_bank": false,
+      "ayushman_bharat": true
+    }
+  },
+  {
+    "id": "node_7492121939",
+    "name": "Chiron Children's Superspeciality Hospital",
+    "category": "hospital",
+    "address": "Ashiyana Colony, Moradabad",
+    "locality": "Ashiyana",
+    "pincode": "244001",
+    "latitude": 28.8797745,
+    "longitude": 78.7456842,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": true,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7492121940",
+    "name": "Darul Shifa Hospital",
+    "category": "hospital",
+    "address": "Police Station, Prince Road, Opp. Indira Chowk, Basantapur, Chhajlet, Moradabad",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.8309142,
+    "longitude": 78.7846978,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7492121944",
+    "name": "Bajaj Eye Hospital",
+    "category": "hospital",
+    "address": "Chowk Tari Khana, Court Road, Moradabad",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.837713,
+    "longitude": 78.7685131,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7492121945",
+    "name": "Ram Rahim Charitable Eye Hospital",
+    "category": "hospital",
+    "address": "Serua Dharampur",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.9195609,
+    "longitude": 78.7088391,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7492121946",
+    "name": "Dr.Nazim's Mahanagar Hospital, Moradabad",
+    "category": "hospital",
+    "address": "Prince Road, Hayat Nagar, Katghar, Moradabad",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.8307694,
+    "longitude": 78.7852152,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7492121949",
+    "name": "Govind Ram Hospital",
+    "category": "hospital",
+    "address": "Ram Ganga Bridge, Gulabwadi Chungi, Katghar, Moradabad",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.8210982,
+    "longitude": 78.7969188,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7492121952",
+    "name": "Janta Hospital",
+    "category": "hospital",
+    "address": "Ashiyana Colony, Moradabad",
+    "locality": "Ashiyana",
+    "pincode": "244001",
+    "latitude": 28.8779324,
+    "longitude": 78.743387,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7492121953",
+    "name": "Yug Hospital Moradabad",
+    "category": "hospital",
+    "address": "Near Safaya Benket Hall, Ashiyana Colony, Mora Mustahkam, Harthala, Moradabad",
+    "locality": "Ashiyana",
+    "pincode": "244001",
+    "latitude": 28.8794114,
+    "longitude": 78.7454835,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7492121956",
+    "name": "Anna Hospital",
+    "category": "hospital",
+    "address": "B-798, Asim Bihari School Road, Adarsh Nagar, Lajpat Nagar, Moradabad",
+    "locality": "Lajpat Nagar",
+    "pincode": "244001",
+    "latitude": 28.8244196,
+    "longitude": 78.7844004,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7492121957",
+    "name": "Dr Rajat Shekhar, Hirdeya Cardiac Lab",
+    "category": "clinic",
+    "address": "Near Police Station, Civil Lines, Moradabad",
+    "locality": "Civil Lines",
+    "pincode": "244001",
+    "latitude": 28.8505432,
+    "longitude": 78.7663046,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": false,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7492121958",
+    "name": "Dhanwantri Superspeciality Hospital",
+    "category": "hospital",
+    "address": "Sarai Khalsa, Civil Lines, Moradabad",
+    "locality": "Civil Lines",
+    "pincode": "244001",
+    "latitude": 28.8429233,
+    "longitude": 78.7706806,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": true,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7492121960",
+    "name": "Navin Hospital",
+    "category": "hospital",
+    "address": "Gandhi Nagar, Near Chaddha Cinema, Moradabad",
+    "locality": "Gandhi Nagar",
+    "pincode": "244001",
+    "latitude": 28.8290935,
+    "longitude": 78.7717164,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7492121961",
+    "name": "Galaxy Surgical and Maternity Centre",
+    "category": "hospital",
+    "address": "Near Cl Gupta World School, Ram Ganga Vihar Phase 2, Moradabad",
+    "locality": "Ram Ganga Vihar",
+    "pincode": "244001",
+    "latitude": 28.8758492,
+    "longitude": 78.7487572,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7492121962",
+    "name": "Dmr Hospital",
+    "category": "hospital",
+    "address": "Railway Colony Road, Civil Lines, Moradabad",
+    "locality": "Civil Lines",
+    "pincode": "244001",
+    "latitude": 28.838886,
+    "longitude": 78.7629299,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7492121963",
+    "name": "Kothiwal Hospital's",
+    "category": "hospital",
+    "address": "Kanth Road, Mohra Ki Milak, Bhatawali Mustahkam",
+    "locality": "Kanth Road",
+    "pincode": "244001",
+    "latitude": 28.8962737,
+    "longitude": 78.728494,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7492121966",
+    "name": "Siddh Hospital",
+    "category": "hospital",
+    "address": "Near Pvr Cinema, Harthala, Moradabad",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.877752,
+    "longitude": 78.739728,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false,
+      "cashless_insurance": true
+    }
+  },
+  {
+    "id": "node_7492121972",
+    "name": "Apex Hospital",
+    "category": "hospital",
+    "address": "Near Majholi Chauraha, Delhi Road, Moradabad",
+    "locality": "Delhi Road",
+    "pincode": "244001",
+    "latitude": 28.8335268,
+    "longitude": 78.7453792,
+    "phone": "8865080178",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": true,
+      "blood_bank": false,
+      "ayushman_bharat": true,
+      "cashless_insurance": true
+    }
+  },
+  {
+    "id": "node_7492121973",
+    "name": "Mahendra Hospital",
+    "category": "hospital",
+    "address": "Pital Nagri, Moradabad",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.80667,
+    "longitude": 78.7840892,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7492121974",
+    "name": "J.R Hospital Heart Care Neuro Care Maternity and General Centre",
+    "category": "hospital",
+    "address": "Rampur Road, Near Pital Nagri, Moradabad",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.8267194,
+    "longitude": 78.8074619,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": true,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7492121978",
+    "name": "Metro Hospital",
+    "category": "hospital",
+    "address": "Gandhi Nagar, Moradabad",
+    "locality": "Gandhi Nagar",
+    "pincode": "244001",
+    "latitude": 28.8255163,
+    "longitude": 78.7734069,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7492121979",
+    "name": "PAC Hospital",
+    "category": "hospital",
+    "address": "Moradabad",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.8586724,
+    "longitude": 78.7497469,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7492121980",
+    "name": "Sultan Laparoscopy Hospital",
+    "category": "hospital",
+    "address": "Lajpat Nagar, Moradabad",
+    "locality": "Lajpat Nagar",
+    "pincode": "244001",
+    "latitude": 28.8235645,
+    "longitude": 78.7829458,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7492121982",
+    "name": "Divyakriti Hospital",
+    "category": "hospital",
+    "address": "Ashiyana Colony, Mora Mustahkam, Moradabad",
+    "locality": "Ashiyana",
+    "pincode": "244001",
+    "latitude": 28.8834069,
+    "longitude": 78.7422523,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7492121985",
+    "name": "Singh Hospital",
+    "category": "hospital",
+    "address": "Gandhi Nagar, Moradabad",
+    "locality": "Gandhi Nagar",
+    "pincode": "244001",
+    "latitude": 28.8281995,
+    "longitude": 78.7737622,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7492121986",
+    "name": "Orthomax Hospital & Trauma Centre",
+    "category": "hospital",
+    "address": "Ashiyana Colony, Mora Mustahkam, Harthala, Moradabad",
+    "locality": "Ashiyana",
+    "pincode": "244001",
+    "latitude": 28.8805647,
+    "longitude": 78.7392598,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": true,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7492121987",
+    "name": "Sri Sai Super Speciality Hospital",
+    "category": "hospital",
+    "address": "Delhi Road, Mansarover Colony, Line Par, Moradabad",
+    "locality": "Delhi Road",
+    "pincode": "244001",
+    "latitude": 28.8399974,
+    "longitude": 78.7528738,
+    "phone": "0591-2479800",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": true,
+      "blood_bank": false,
+      "ayushman_bharat": true,
+      "cashless_insurance": true
+    }
+  },
+  {
+    "id": "node_7492121989",
+    "name": "Crest Hospital",
+    "category": "hospital",
+    "address": "Prem Nagar Industrial Area, Moradabad",
+    "locality": "Prem Nagar",
+    "pincode": "244001",
+    "latitude": 28.8906679,
+    "longitude": 78.7306372,
+    "phone": "7088022999",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": true,
+      "cashless_insurance": true
+    }
+  },
+  {
+    "id": "node_7492121991",
+    "name": "Chaman Hospital",
+    "category": "hospital",
+    "address": "Near Faiz Ganj Police Chowki, Faiz Ganj Road, Mohammad Ali Road, Moradabad",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.83525,
+    "longitude": 78.7861276,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7492121992",
+    "name": "Photon Hospital",
+    "category": "hospital",
+    "address": "Kashipur Road, Rampur Douraha, Near By Satsang, Moradabad",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.8586224,
+    "longitude": 78.8253331,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7492121994",
+    "name": "Tirupati Hospital",
+    "category": "hospital",
+    "address": "Khushhalpur Road, Vikas Colony, Buddhi Vihar, Moradabad",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.8371339,
+    "longitude": 78.7420646,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7492121995",
+    "name": "We Care Hospital",
+    "category": "hospital",
+    "address": "South Ekta Vihar, Near Bijli Ghar, Rampur, Doraha",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.8385284,
+    "longitude": 78.8292048,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7492121996",
+    "name": "Jamila Hospital",
+    "category": "hospital",
+    "address": "Takht Wali Masjid,Moradabad",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.8404776,
+    "longitude": 78.777383,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7492121997",
+    "name": "Maryada Hospital",
+    "category": "hospital",
+    "address": "Ram Ganga Vihar, Deen Dayal Nagar-II, Moradabad",
+    "locality": "Ram Ganga Vihar",
+    "pincode": "244001",
+    "latitude": 28.8650133,
+    "longitude": 78.7505386,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7492122000",
+    "name": "Medicity Hospital",
+    "category": "hospital",
+    "address": "Gandhi Nagar, Moradabad",
+    "locality": "Gandhi Nagar",
+    "pincode": "244001",
+    "latitude": 28.829017,
+    "longitude": 78.772344,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7492122001",
+    "name": "V V N Hospital",
+    "category": "hospital",
+    "address": "Buddhi Vihar, Moradabad",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.8386591,
+    "longitude": 78.7733215,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7492122003",
+    "name": "Blessing Hospital",
+    "category": "hospital",
+    "address": "Adarsh Nagar, Lajpat Nagar, Moradabad",
+    "locality": "Lajpat Nagar",
+    "pincode": "244001",
+    "latitude": 28.8223081,
+    "longitude": 78.7809607,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7492122005",
+    "name": "Ahmad Hospital",
+    "category": "hospital",
+    "address": "Near Tara Building, Jabbu Ka Nala Road, Deputy Gunj, Daulat Bagh, Moradabad",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.8441709,
+    "longitude": 78.7748155,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7492122008",
+    "name": "Royal Hospital",
+    "category": "hospital",
+    "address": "Lajpat Nagar, Water Tank Road, Moradabad",
+    "locality": "Lajpat Nagar",
+    "pincode": "244001",
+    "latitude": 28.825443,
+    "longitude": 78.7826943,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7492122009",
+    "name": "Dr Dutt Children Hospital",
+    "category": "hospital",
+    "address": "Parker College Road, Budh Bazaar, Moradabad",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.8364711,
+    "longitude": 78.7670889,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7492122010",
+    "name": "Muzaffar Child Care & Birth Hospital",
+    "category": "hospital",
+    "address": "Patnagarh, Pat Pat Sarai, Moradabad",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.8413943,
+    "longitude": 78.7758726,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7492122011",
+    "name": "Central Police Hospital",
+    "category": "hospital",
+    "address": "Civil Lines, Moradabad",
+    "locality": "Civil Lines",
+    "pincode": "244001",
+    "latitude": 28.8560708,
+    "longitude": 78.7600645,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7492122012",
+    "name": "Jigar Hospital",
+    "category": "hospital",
+    "address": "Jigar Colony, Moradabad",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.8551866,
+    "longitude": 78.7709303,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7492122013",
+    "name": "Kilkari Hospital",
+    "category": "hospital",
+    "address": "Kothiwal Nagar, Moradabad",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.8336955,
+    "longitude": 78.7728061,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7492122014",
+    "name": "P.P. Eye Clinic",
+    "category": "clinic",
+    "address": "Jail Road, Gurhatti, Civil Lines, Moradabad",
+    "locality": "Civil Lines",
+    "pincode": "244001",
+    "latitude": 28.8429866,
+    "longitude": 78.7694343,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": false,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7492122015",
+    "name": "Synergy Superspeciality Hospital",
+    "category": "hospital",
+    "address": "Prabhat Market, Near Saggu Palace",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.821741,
+    "longitude": 78.785138,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": true,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7492122018",
+    "name": "Vivekananda Hospital, Harthala",
+    "category": "hospital",
+    "address": "Harthala, Moradabad",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.8759223,
+    "longitude": 78.7348487,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7492122020",
+    "name": "Raj Dental Speciality Hospital",
+    "category": "hospital",
+    "address": "Hayat Nagar, Katghar, Moradabad",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.8252204,
+    "longitude": 78.793199,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7492122022",
+    "name": "Sahara Hospital",
+    "category": "hospital",
+    "address": "Lajpat Nagar, Moradabad",
+    "locality": "Lajpat Nagar",
+    "pincode": "244001",
+    "latitude": 28.8257057,
+    "longitude": 78.7814011,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7492122023",
+    "name": "Anand Hospital",
+    "category": "hospital",
+    "address": "Near Milglani Theatre, Gandhi Nagar, Moradabad",
+    "locality": "Gandhi Nagar",
+    "pincode": "244001",
+    "latitude": 28.824701,
+    "longitude": 78.776,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false,
+      "cashless_insurance": true
+    }
+  },
+  {
+    "id": "node_7492122024",
+    "name": "National Hospital & Kideny Centre",
+    "category": "hospital",
+    "address": "Pili Kothi, Near Civil Lines, Moradabad",
+    "locality": "Civil Lines",
+    "pincode": "244001",
+    "latitude": 28.847337,
+    "longitude": 78.766334,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7492122026",
+    "name": "Rsd Hospital and Research Centre",
+    "category": "hospital",
+    "address": "Ram Ganga Vihar Phase 2, Moradabad",
+    "locality": "Ram Ganga Vihar",
+    "pincode": "244001",
+    "latitude": 28.8728949,
+    "longitude": 78.7545477,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": true,
+      "blood_bank": false,
+      "ayushman_bharat": false,
+      "cashless_insurance": true
+    }
+  },
+  {
+    "id": "node_7492122027",
+    "name": "Yashoda Hospital",
+    "category": "hospital",
+    "address": "Gandhi Nagar , Moradabad",
+    "locality": "Gandhi Nagar",
+    "pincode": "244001",
+    "latitude": 28.828586,
+    "longitude": 78.771386,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "node_7492122030",
+    "name": "Brightstar Hospital",
+    "category": "hospital",
+    "address": "New Moradabad",
+    "locality": "Moradabad",
+    "pincode": "244102",
+    "latitude": 28.8344214,
+    "longitude": 78.6985299,
+    "phone": "9389808062",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": true,
+      "blood_bank": false,
+      "ayushman_bharat": true
+    }
+  },
+  {
+    "id": "node_7492122033",
+    "name": "Dr. PK Khanna Children Hospital and Diagnostic Lab",
+    "category": "hospital",
+    "address": "A-40, Lane Number 4, Gandhi Nagar, Moradabad",
+    "locality": "Gandhi Nagar",
+    "pincode": "244001",
+    "latitude": 28.82729,
+    "longitude": 78.772155,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": true,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false
+    }
+  },
+  {
+    "id": "custom_118",
+    "name": "New",
+    "category": "hospital",
+    "address": "AROGYA SEVA KENDRA - Free Health Consultation - Click Here to Know More",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.8386,
+    "longitude": 78.7733,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": false,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false,
+      "cashless_insurance": true
+    }
+  },
+  {
+    "id": "custom_119",
+    "name": "Network Hospitals In",
+    "category": "hospital",
+    "address": "Moradabad 23 found for Moradabad",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.8386,
+    "longitude": 78.7733,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": false,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false,
+      "cashless_insurance": true
+    }
+  },
+  {
+    "id": "custom_120",
+    "name": "Moradabad",
+    "category": "hospital",
+    "address": ", Uttar Pradesh",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.8386,
+    "longitude": 78.7733,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": false,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false,
+      "cashless_insurance": true
+    }
+  },
+  {
+    "id": "custom_121",
+    "name": "Near Loco Shed Bridge Mansarover Colony, Delhi Road",
+    "category": "hospital",
+    "address": ", MORADABAD",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.8386,
+    "longitude": 78.7733,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": false,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false,
+      "cashless_insurance": true
+    }
+  },
+  {
+    "id": "custom_122",
+    "name": "Teerthanker Mahaveer Hospital And Research Centre",
+    "category": "hospital",
+    "address": "MORADABAD ,",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.8386,
+    "longitude": 78.7733,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": false,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false,
+      "cashless_insurance": true
+    }
+  },
+  {
+    "id": "custom_123",
+    "name": "Vi11- Bagarpur, Pakwara Nh-24 Delhi Road",
+    "category": "hospital",
+    "address": ", MORADABAD",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.8386,
+    "longitude": 78.7733,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": false,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false,
+      "cashless_insurance": true
+    }
+  },
+  {
+    "id": "custom_124",
+    "name": "Prem Nagar, Post Kazipura,Kanth Road",
+    "category": "hospital",
+    "address": ", MORADABAD",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.8386,
+    "longitude": 78.7733,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": false,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false,
+      "cashless_insurance": true
+    }
+  },
+  {
+    "id": "custom_125",
+    "name": "Ram Ganga Vihar, Phase-Ii Extension, Behind  T D I City",
+    "category": "hospital",
+    "address": ", MORADABAD",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.8386,
+    "longitude": 78.7733,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": false,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false,
+      "cashless_insurance": true
+    }
+  },
+  {
+    "id": "custom_126",
+    "name": "Sahu Rameshwer Saran Kothiwal Hospital Heart And Neuro Care Center",
+    "category": "hospital",
+    "address": "MORADABAD ,",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.8386,
+    "longitude": 78.7733,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": false,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false,
+      "cashless_insurance": true
+    }
+  },
+  {
+    "id": "custom_127",
+    "name": "Near Kothiwal Dental College Kanth Road",
+    "category": "hospital",
+    "address": ", MORADABAD",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.8386,
+    "longitude": 78.7733,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": false,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false,
+      "cashless_insurance": true
+    }
+  },
+  {
+    "id": "custom_128",
+    "name": "Prem Nagar , Kanth Road, Industrial Area",
+    "category": "hospital",
+    "address": ", MORADABAD",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.8386,
+    "longitude": 78.7733,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": false,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false,
+      "cashless_insurance": true
+    }
+  },
+  {
+    "id": "custom_129",
+    "name": "Opp Jiyarat Harthala Industrail Estate Kanth Road",
+    "category": "hospital",
+    "address": ", MORADABAD",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.8386,
+    "longitude": 78.7733,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": false,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false,
+      "cashless_insurance": true
+    }
+  },
+  {
+    "id": "custom_130",
+    "name": "Opposite Park Square, Near Majholi Chauraha, Delhi Road",
+    "category": "hospital",
+    "address": ", MORADABAD",
+    "locality": "Moradabad",
+    "pincode": "244001",
+    "latitude": 28.8386,
+    "longitude": 78.7733,
+    "phone": "N/A",
+    "facilities": {
+      "emergency_24x7": false,
+      "icu": false,
+      "blood_bank": false,
+      "ayushman_bharat": false,
+      "cashless_insurance": true
+    }
+  }
+]
