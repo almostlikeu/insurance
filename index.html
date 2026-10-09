@@ -8,13 +8,12 @@
 </head>
 <body class="bg-slate-50 min-h-screen text-slate-800 antialiased flex flex-col justify-between selection:bg-blue-100">
 
-  <!-- Main Viewport Area -->
   <div>
     <!-- Sticky App Header -->
     <header class="bg-blue-700 text-white sticky top-0 z-30 shadow-md">
       <div class="max-w-4xl mx-auto px-4 py-3.5 flex justify-between items-center">
         <div class="flex items-center gap-2">
-          <!-- Back button (hidden on dashboard, visible inside hospital view) -->
+          <!-- Back button (hidden on dashboard) -->
           <button id="back-btn" onclick="showDashboardView()" class="hidden bg-blue-800/80 hover:bg-blue-800 p-1.5 rounded-lg active:scale-95 transition text-blue-100">
             <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M15 19l-7-7 7-7"></path></svg>
           </button>
@@ -24,100 +23,80 @@
           </div>
         </div>
         
-        <!-- Near Me Button (Only active when in hospital directory) -->
+        <!-- Near Me Button (Only for hospital directory) -->
         <button id="geo-btn" class="hidden bg-blue-600 hover:bg-blue-500 active:scale-95 transition text-white px-3 py-1.5 rounded-lg text-xs font-semibold flex items-center gap-1.5 border border-blue-400/40">
           <span>📍</span> <span id="geo-text">Near Me</span>
         </button>
       </div>
     </header>
 
-    <!-- VIEW 1: HOME DASHBOARD (Major Offerings) -->
+    <!-- VIEW 1: HOME DASHBOARD -->
     <main id="dashboard-view" class="max-w-4xl mx-auto p-4 sm:p-6 transition-all duration-200">
       <div class="mb-5">
         <h2 class="text-xl font-bold text-slate-900">What are you looking for?</h2>
         <p class="text-xs sm:text-sm text-slate-500 mt-1">Select a verified local healthcare service in Moradabad</p>
       </div>
 
-      <!-- Offerings Grid -->
       <div class="grid grid-cols-1 sm:grid-cols-2 gap-3.5">
         
         <!-- 1. Nearest Hospital (ACTIVE) -->
         <div onclick="showHospitalView()" class="bg-white p-5 rounded-2xl border-2 border-blue-600/20 shadow-sm hover:shadow-md hover:border-blue-600 active:scale-[0.98] transition cursor-pointer relative overflow-hidden group">
-          <div class="absolute -right-2 -bottom-2 w-20 h-20 bg-blue-50 rounded-full opacity-60 group-hover:scale-110 transition pointer-events-none"></div>
           <div class="flex items-center justify-between">
-            <div class="w-11 h-11 rounded-xl bg-blue-100 text-blue-700 flex items-center justify-center text-xl shadow-inner">
-              🏥
-            </div>
+            <div class="w-11 h-11 rounded-xl bg-blue-100 text-blue-700 flex items-center justify-center text-xl shadow-inner">🏥</div>
             <span class="text-[10px] font-bold bg-green-100 text-green-700 px-2.5 py-1 rounded-full uppercase tracking-wider flex items-center gap-1">
               <span class="w-1.5 h-1.5 rounded-full bg-green-500 animate-pulse"></span> Active
             </span>
           </div>
           <h3 class="font-bold text-base text-slate-900 mt-3.5">Nearest Hospital</h3>
-          <p class="text-xs text-slate-500 mt-1 leading-relaxed">Search 70+ local hospitals, trauma centers, ICU facilities, and direct emergency helplines.</p>
+          <p class="text-xs text-slate-500 mt-1 leading-relaxed">Search 70+ local hospitals, trauma centers, ICU facilities, and direct emergency desks.</p>
           <div class="mt-4 flex items-center text-xs font-semibold text-blue-600 gap-1">
-            <span>Browse Directory</span>
-            <span>→</span>
+            <span>Browse Directory</span> <span>→</span>
           </div>
         </div>
 
-        <!-- 2. Emergency Contact (COMING SOON) -->
-        <div onclick="showComingSoon('Emergency Contact')" class="bg-slate-100/70 p-5 rounded-2xl border border-slate-200/80 active:scale-[0.98] transition cursor-pointer relative overflow-hidden group">
+        <!-- 2. Emergency Contact & Ambulance (NOW ACTIVE) -->
+        <div onclick="showAmbulanceView()" class="bg-white p-5 rounded-2xl border-2 border-red-600/20 shadow-sm hover:shadow-md hover:border-red-600 active:scale-[0.98] transition cursor-pointer relative overflow-hidden group">
           <div class="flex items-center justify-between">
-            <div class="w-11 h-11 rounded-xl bg-slate-200 text-slate-500 flex items-center justify-center text-xl grayscale opacity-70">
-              🚨
-            </div>
-            <span class="text-[10px] font-semibold bg-slate-200 text-slate-500 px-2 py-0.5 rounded-full uppercase">
-              Coming Soon
+            <div class="w-11 h-11 rounded-xl bg-red-100 text-red-700 flex items-center justify-center text-xl shadow-inner">🚨</div>
+            <span class="text-[10px] font-bold bg-red-100 text-red-700 px-2.5 py-1 rounded-full uppercase tracking-wider flex items-center gap-1">
+              <span class="w-1.5 h-1.5 rounded-full bg-red-500 animate-pulse"></span> Active
             </span>
           </div>
-          <h3 class="font-bold text-base text-slate-700 mt-3.5">Emergency Contact</h3>
-          <p class="text-xs text-slate-400 mt-1 leading-relaxed">Direct 1-tap dialer for ambulances, blood bank dispatchers, and police control.</p>
-          <div class="mt-4 text-xs font-medium text-slate-400">Unavailable in Phase 1</div>
+          <h3 class="font-bold text-base text-slate-900 mt-3.5">Ambulance & Emergency</h3>
+          <p class="text-xs text-slate-500 mt-1 leading-relaxed">Direct 1-tap dialer for UP 108/102, hospital fleets, ICU-on-wheels, and private ambulances.</p>
+          <div class="mt-4 flex items-center text-xs font-semibold text-red-600 gap-1">
+            <span>Find Ambulance</span> <span>→</span>
+          </div>
         </div>
 
         <!-- 3. Nearest Jan Aushadhi (COMING SOON) -->
-        <div onclick="showComingSoon('Nearest Jan Aushadhi')" class="bg-slate-100/70 p-5 rounded-2xl border border-slate-200/80 active:scale-[0.98] transition cursor-pointer relative overflow-hidden group">
+        <div onclick="showComingSoon('Nearest Jan Aushadhi')" class="bg-slate-100/70 p-5 rounded-2xl border border-slate-200/80 active:scale-[0.98] transition cursor-pointer">
           <div class="flex items-center justify-between">
-            <div class="w-11 h-11 rounded-xl bg-slate-200 text-slate-500 flex items-center justify-center text-xl grayscale opacity-70">
-              💊
-            </div>
-            <span class="text-[10px] font-semibold bg-slate-200 text-slate-500 px-2 py-0.5 rounded-full uppercase">
-              Coming Soon
-            </span>
+            <div class="w-11 h-11 rounded-xl bg-slate-200 text-slate-500 flex items-center justify-center text-xl grayscale opacity-70">💊</div>
+            <span class="text-[10px] font-semibold bg-slate-200 text-slate-500 px-2 py-0.5 rounded-full uppercase">Coming Soon</span>
           </div>
           <h3 class="font-bold text-base text-slate-700 mt-3.5">Nearest Jan Aushadhi</h3>
           <p class="text-xs text-slate-400 mt-1 leading-relaxed">Locate verified Pradhan Mantri Jan Aushadhi Kendras for low-cost generic drugs.</p>
-          <div class="mt-4 text-xs font-medium text-slate-400">Unavailable in Phase 1</div>
         </div>
 
         <!-- 4. Basic Medicine (COMING SOON) -->
-        <div onclick="showComingSoon('Basic Medicine')" class="bg-slate-100/70 p-5 rounded-2xl border border-slate-200/80 active:scale-[0.98] transition cursor-pointer relative overflow-hidden group">
+        <div onclick="showComingSoon('Basic Medicine')" class="bg-slate-100/70 p-5 rounded-2xl border border-slate-200/80 active:scale-[0.98] transition cursor-pointer">
           <div class="flex items-center justify-between">
-            <div class="w-11 h-11 rounded-xl bg-slate-200 text-slate-500 flex items-center justify-center text-xl grayscale opacity-70">
-              🩹
-            </div>
-            <span class="text-[10px] font-semibold bg-slate-200 text-slate-500 px-2 py-0.5 rounded-full uppercase">
-              Coming Soon
-            </span>
+            <div class="w-11 h-11 rounded-xl bg-slate-200 text-slate-500 flex items-center justify-center text-xl grayscale opacity-70">🩹</div>
+            <span class="text-[10px] font-semibold bg-slate-200 text-slate-500 px-2 py-0.5 rounded-full uppercase">Coming Soon</span>
           </div>
           <h3 class="font-bold text-base text-slate-700 mt-3.5">Basic Medicine</h3>
           <p class="text-xs text-slate-400 mt-1 leading-relaxed">Essential home medicine guides, dosage awareness, and OTC recommendations.</p>
-          <div class="mt-4 text-xs font-medium text-slate-400">Unavailable in Phase 1</div>
         </div>
 
         <!-- 5. Insurance compare/review (COMING SOON) -->
-        <div onclick="showComingSoon('Insurance compare/review [Know your insurance]')" class="bg-slate-100/70 p-5 rounded-2xl border border-slate-200/80 active:scale-[0.98] transition cursor-pointer relative sm:col-span-2 overflow-hidden group">
+        <div onclick="showComingSoon('Insurance compare/review [Know your insurance]')" class="bg-slate-100/70 p-5 rounded-2xl border border-slate-200/80 active:scale-[0.98] transition cursor-pointer sm:col-span-2">
           <div class="flex items-center justify-between">
-            <div class="w-11 h-11 rounded-xl bg-slate-200 text-slate-500 flex items-center justify-center text-xl grayscale opacity-70">
-              🛡️
-            </div>
-            <span class="text-[10px] font-semibold bg-slate-200 text-slate-500 px-2 py-0.5 rounded-full uppercase">
-              Coming Soon
-            </span>
+            <div class="w-11 h-11 rounded-xl bg-slate-200 text-slate-500 flex items-center justify-center text-xl grayscale opacity-70">🛡️</div>
+            <span class="text-[10px] font-semibold bg-slate-200 text-slate-500 px-2 py-0.5 rounded-full uppercase">Coming Soon</span>
           </div>
           <h3 class="font-bold text-base text-slate-700 mt-3.5">Insurance compare/review [Know your insurance]</h3>
-          <p class="text-xs text-slate-400 mt-1 leading-relaxed">Compare cashless policies, understand waiting periods, room-rent capping, and empaneled local hospitals.</p>
-          <div class="mt-4 text-xs font-medium text-slate-400">Unavailable in Phase 1</div>
+          <p class="text-xs text-slate-400 mt-1 leading-relaxed">Compare cashless policies, understand waiting periods, and empaneled local hospitals.</p>
         </div>
 
       </div>
@@ -125,16 +104,9 @@
 
     <!-- VIEW 2: HOSPITAL REPOSITORY VIEW -->
     <main id="hospital-view" class="hidden max-w-4xl mx-auto p-4 transition-all duration-200">
-      
-      <!-- Search & Filters -->
       <div class="flex flex-col sm:flex-row gap-2.5 mb-4">
         <div class="relative flex-1">
-          <input 
-            id="search" 
-            type="text" 
-            placeholder="Search hospital or locality (Civil Lines, Kanth Rd)..." 
-            class="w-full pl-9 pr-3 py-2.5 text-sm bg-white border border-slate-300 rounded-xl shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
-          />
+          <input id="search" type="text" placeholder="Search hospital or locality..." class="w-full pl-9 pr-3 py-2.5 text-sm bg-white border border-slate-300 rounded-xl shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500" />
           <span class="absolute left-3 top-2.5 text-slate-400 text-sm">🔍</span>
         </div>
         <select id="filter" class="w-full sm:w-44 px-3 py-2.5 text-sm bg-white border border-slate-300 rounded-xl shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500">
@@ -143,31 +115,74 @@
           <option value="clinic">Clinics Only</option>
         </select>
       </div>
-
-      <!-- Facility Count Banner -->
       <div class="flex justify-between items-center mb-3 px-1 text-xs text-slate-500 font-medium">
         <span id="result-count">Loading facilities...</span>
         <span id="sort-status">Default Order</span>
       </div>
-
-      <!-- Cards Grid -->
       <div id="grid" class="grid grid-cols-1 md:grid-cols-2 gap-3.5"></div>
+    </main>
+
+    <!-- VIEW 3: AMBULANCE & EMERGENCY VIEW -->
+    <main id="ambulance-view" class="hidden max-w-4xl mx-auto p-4 transition-all duration-200">
+      
+      <!-- Instant 1-Tap National/State Helplines -->
+      <div class="bg-gradient-to-r from-red-600 to-rose-700 text-white rounded-2xl p-4 shadow-md mb-4">
+        <div class="text-xs uppercase font-bold tracking-wider opacity-90 mb-1">Emergency Government Helplines (24x7 Free)</div>
+        <div class="grid grid-cols-2 gap-2 mt-2">
+          <a href="tel:108" class="bg-white text-red-700 rounded-xl p-2.5 flex items-center justify-between font-bold shadow-sm active:scale-95 transition">
+            <div>
+              <div class="text-sm">UP 108 Emergency</div>
+              <div class="text-[10px] text-slate-500 font-normal">Toll-Free Immediate Dispatch</div>
+            </div>
+            <span class="text-lg">📞</span>
+          </a>
+          <a href="tel:102" class="bg-white text-red-700 rounded-xl p-2.5 flex items-center justify-between font-bold shadow-sm active:scale-95 transition">
+            <div>
+              <div class="text-sm">UP 102 Maternity</div>
+              <div class="text-[10px] text-slate-500 font-normal">Mother & Infant Care</div>
+            </div>
+            <span class="text-lg">📞</span>
+          </a>
+        </div>
+      </div>
+
+      <!-- Ambulance Search & Category Filter -->
+      <div class="flex flex-col sm:flex-row gap-2.5 mb-4">
+        <div class="relative flex-1">
+          <input id="amb-search" type="text" placeholder="Search ambulance, hospital fleet, locality..." class="w-full pl-9 pr-3 py-2.5 text-sm bg-white border border-slate-300 rounded-xl shadow-sm focus:outline-none focus:ring-2 focus:ring-red-500" />
+          <span class="absolute left-3 top-2.5 text-slate-400 text-sm">🔍</span>
+        </div>
+        <select id="amb-filter" class="w-full sm:w-44 px-3 py-2.5 text-sm bg-white border border-slate-300 rounded-xl shadow-sm focus:outline-none focus:ring-2 focus:ring-red-500">
+          <option value="all">All Fleets</option>
+          <option value="Hospital">Hospital Fleets</option>
+          <option value="Private">Private / ICU</option>
+          <option value="Govt">Government</option>
+        </select>
+      </div>
+
+      <div class="flex justify-between items-center mb-3 px-1 text-xs text-slate-500 font-medium">
+        <span id="amb-count">Loading ambulances...</span>
+        <span>24x7 Emergency Services</span>
+      </div>
+
+      <!-- Ambulance Cards Grid -->
+      <div id="amb-grid" class="grid grid-cols-1 md:grid-cols-2 gap-3.5"></div>
     </main>
   </div>
 
-  <!-- Mobile Toast Message -->
+  <!-- Toast -->
   <div id="toast" class="fixed bottom-6 left-1/2 transform -translate-x-1/2 bg-slate-900/90 text-white px-4 py-2.5 rounded-full text-xs font-medium shadow-2xl backdrop-blur transition-all duration-300 opacity-0 pointer-events-none z-50 flex items-center gap-2">
-    <span>⏳</span>
-    <span id="toast-text">Coming Soon</span>
+    <span>⏳</span> <span id="toast-text">Coming Soon</span>
   </div>
 
   <script>
     let hospitals = [];
+    let ambulances = [];
     let userCoords = null;
 
-    // View Navigation Switches
     function showHospitalView() {
       document.getElementById("dashboard-view").classList.add("hidden");
+      document.getElementById("ambulance-view").classList.add("hidden");
       document.getElementById("hospital-view").classList.remove("hidden");
       document.getElementById("back-btn").classList.remove("hidden");
       document.getElementById("geo-btn").classList.remove("hidden");
@@ -175,8 +190,19 @@
       window.scrollTo(0, 0);
     }
 
+    function showAmbulanceView() {
+      document.getElementById("dashboard-view").classList.add("hidden");
+      document.getElementById("hospital-view").classList.add("hidden");
+      document.getElementById("ambulance-view").classList.remove("hidden");
+      document.getElementById("back-btn").classList.remove("hidden");
+      document.getElementById("geo-btn").classList.add("hidden");
+      document.getElementById("header-title").textContent = "Ambulance Services";
+      window.scrollTo(0, 0);
+    }
+
     function showDashboardView() {
       document.getElementById("hospital-view").classList.add("hidden");
+      document.getElementById("ambulance-view").classList.add("hidden");
       document.getElementById("dashboard-view").classList.remove("hidden");
       document.getElementById("back-btn").classList.add("hidden");
       document.getElementById("geo-btn").classList.add("hidden");
@@ -184,59 +210,31 @@
       window.scrollTo(0, 0);
     }
 
-    // Toast Trigger
     function showComingSoon(featureName) {
       const toast = document.getElementById("toast");
-      const toastText = document.getElementById("toast-text");
-      toastText.textContent = `${featureName} - Coming Soon!`;
-      
+      document.getElementById("toast-text").textContent = `${featureName} - Coming Soon!`;
       toast.classList.remove("opacity-0", "pointer-events-none");
       toast.classList.add("opacity-100");
-      
       setTimeout(() => {
         toast.classList.remove("opacity-100");
         toast.classList.add("opacity-0", "pointer-events-none");
       }, 2500);
     }
 
-    // Haversine distance calculator (km)
-    function getDistance(lat1, lon1, lat2, lon2) {
-      const R = 6371;
-      const dLat = (lat2 - lat1) * Math.PI / 180;
-      const dLon = (lon2 - lon1) * Math.PI / 180;
-      const a = 
-        Math.sin(dLat/2) * Math.sin(dLat/2) +
-        Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) * 
-        Math.sin(dLon/2) * Math.sin(dLon/2);
-      const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
-      return (R * c).toFixed(1);
-    }
-
-    function renderHospitals(list) {
-      const grid = document.getElementById("grid");
-      const countEl = document.getElementById("result-count");
+    function renderAmbulances(list) {
+      const grid = document.getElementById("amb-grid");
+      const countEl = document.getElementById("amb-count");
       grid.innerHTML = "";
-      countEl.textContent = `Showing ${list.length} facilities`;
+      countEl.textContent = `Showing ${list.length} ambulances`;
 
       if (list.length === 0) {
-        grid.innerHTML = `
-          <div class="col-span-full text-center py-12 bg-white rounded-2xl border border-dashed border-slate-300 p-6">
-            <p class="text-slate-600 font-medium text-sm">No facilities match your search query.</p>
-            <p class="text-slate-400 text-xs mt-1">Try searching for "Civil Lines", "Lajpat Nagar", or "Eye".</p>
-          </div>`;
+        grid.innerHTML = `<div class="col-span-full text-center py-10 bg-white rounded-2xl border border-dashed border-slate-300 p-4 text-xs text-slate-500">No ambulance services match your search.</div>`;
         return;
       }
 
-      list.forEach(h => {
-        let distBadge = "";
-        if (userCoords && h.latitude && h.longitude) {
-          const dist = getDistance(userCoords.lat, userCoords.lon, h.latitude, h.longitude);
-          distBadge = `<span class="bg-blue-50 text-blue-700 text-[11px] px-2 py-0.5 rounded-md font-semibold shrink-0 border border-blue-200/60">${dist} km</span>`;
-        }
-
-        const mapUrl = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(h.name + " " + (h.address || "Moradabad"))}`;
-        const hasPhone = h.phone && h.phone !== "N/A";
-        const phoneLink = hasPhone ? `tel:${h.phone}` : "#";
+      list.forEach(item => {
+        const hasPhone = item.phone && item.phone !== "N/A";
+        const phoneLink = hasPhone ? `tel:${item.phone}` : "#";
 
         const card = document.createElement("div");
         card.className = "bg-white p-4 rounded-2xl border border-slate-200/80 shadow-sm flex flex-col justify-between hover:border-slate-300 transition";
@@ -244,40 +242,77 @@
           <div>
             <div class="flex justify-between items-start gap-2">
               <div>
-                <span class="text-[10px] uppercase font-bold tracking-wider ${h.category === 'clinic' ? 'text-amber-600' : 'text-blue-600'}">
-                  ${h.category || 'Hospital'}
+                <span class="text-[10px] uppercase font-bold tracking-wider ${item.category === 'Govt' ? 'text-emerald-700' : (item.category === 'Hospital' ? 'text-blue-700' : 'text-purple-700')}">
+                  ${item.category} • ${item.pricing}
                 </span>
-                <h2 class="font-bold text-base text-slate-900 leading-snug mt-0.5">${h.name}</h2>
+                <h3 class="font-bold text-base text-slate-900 leading-snug mt-0.5">${item.name}</h3>
               </div>
-              ${distBadge}
+              <span class="bg-red-50 text-red-700 text-[10px] px-2 py-0.5 rounded-full font-bold border border-red-200 shrink-0">24x7</span>
             </div>
-            
-            <p class="text-xs text-slate-500 mt-1 line-clamp-2">${h.address || 'Moradabad, Uttar Pradesh'}</p>
 
-            <!-- Status Grid -->
-            <div class="grid grid-cols-2 gap-2 my-3 p-2.5 bg-slate-50 rounded-xl border border-slate-100 text-xs">
-              <span class="flex items-center gap-1.5 ${h.facilities?.emergency_24x7 ? 'text-emerald-700 font-medium' : 'text-slate-400'}">
-                ${h.facilities?.emergency_24x7 ? '✓' : '✕'} 24x7 Emergency
+            <p class="text-xs text-slate-500 mt-1 line-clamp-2">${item.address || 'Moradabad'}</p>
+
+            <div class="grid grid-cols-2 gap-1.5 my-3 p-2 bg-slate-50 rounded-xl border border-slate-100 text-[11px]">
+              <span class="flex items-center gap-1 ${item.features.oxygen ? 'text-emerald-700 font-medium' : 'text-slate-400'}">
+                ${item.features.oxygen ? '✓' : '✕'} Oxygen Support
               </span>
-              <span class="flex items-center gap-1.5 ${h.facilities?.icu ? 'text-emerald-700 font-medium' : 'text-slate-400'}">
-                ${h.facilities?.icu ? '✓' : '✕'} ICU Care
+              <span class="flex items-center gap-1 ${item.features.icu ? 'text-emerald-700 font-medium' : 'text-slate-400'}">
+                ${item.features.icu ? '✓' : '✕'} ICU / Cardiac
               </span>
-              <span class="flex items-center gap-1.5 ${h.facilities?.blood_bank ? 'text-emerald-700 font-medium' : 'text-slate-400'}">
-                ${h.facilities?.blood_bank ? '✓' : '✕'} Blood Bank
+              <span class="flex items-center gap-1 ${item.features.als ? 'text-emerald-700 font-medium' : 'text-slate-400'}">
+                ${item.features.als ? '✓' : '✕'} ALS Facility
               </span>
-              <span class="flex items-center gap-1.5 ${h.facilities?.ayushman_bharat ? 'text-emerald-700 font-medium' : 'text-slate-400'}">
-                ${h.facilities?.ayushman_bharat ? '✓' : '✕'} Ayushman/Govt
+              <span class="flex items-center gap-1 ${item.features.intercity ? 'text-emerald-700 font-medium' : 'text-slate-400'}">
+                ${item.features.intercity ? '✓' : '✕'} Intercity / NCR
               </span>
             </div>
           </div>
 
-          <!-- Action Buttons -->
-          <div class="grid grid-cols-2 gap-2 mt-1">
-            <a href="${phoneLink}" class="text-center py-2.5 px-3 text-xs font-semibold rounded-xl flex items-center justify-center gap-1.5 active:scale-95 transition ${hasPhone ? 'bg-red-600 hover:bg-red-700 text-white shadow-sm shadow-red-200' : 'bg-slate-100 text-slate-400 pointer-events-none'}">
-              <span>📞</span> ${hasPhone ? 'Call Facility' : 'No Phone'}
+          <a href="${phoneLink}" class="w-full text-center py-2.5 px-3 text-xs font-semibold rounded-xl flex items-center justify-center gap-1.5 active:scale-95 transition ${hasPhone ? 'bg-red-600 hover:bg-red-700 text-white shadow-sm shadow-red-200' : 'bg-slate-100 text-slate-400 pointer-events-none'}">
+            <span>📞</span> ${hasPhone ? `Call Ambulance (${item.phone})` : 'Phone Unavailable'}
+          </a>
+        `;
+        grid.appendChild(card);
+      });
+    }
+
+    function applyAmbulanceFilters() {
+      const q = document.getElementById("amb-search").value.toLowerCase().trim();
+      const cat = document.getElementById("amb-filter").value;
+
+      const filtered = ambulances.filter(a => {
+        const matchesQ = (a.name && a.name.toLowerCase().includes(q)) || (a.address && a.address.toLowerCase().includes(q));
+        const matchesCat = cat === "all" || a.category.toLowerCase() === cat.toLowerCase();
+        return matchesQ && matchesCat;
+      });
+
+      renderAmbulances(filtered);
+    }
+
+    // Existing hospital rendering logic remains active
+    function renderHospitals(list) {
+      const grid = document.getElementById("grid");
+      const countEl = document.getElementById("result-count");
+      grid.innerHTML = "";
+      countEl.textContent = `Showing ${list.length} facilities`;
+
+      list.forEach(h => {
+        const hasPhone = h.phone && h.phone !== "N/A";
+        const mapUrl = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(h.name + " " + (h.address || "Moradabad"))}`;
+        const card = document.createElement("div");
+        card.className = "bg-white p-4 rounded-2xl border border-slate-200/80 shadow-sm flex flex-col justify-between";
+        card.innerHTML = `
+          <div>
+            <span class="text-[10px] uppercase font-bold tracking-wider text-blue-600">${h.category || 'Hospital'}</span>
+            <h2 class="font-bold text-base text-slate-900 leading-snug">${h.name}</h2>
+            <p class="text-xs text-slate-500 mt-1 line-clamp-2">${h.address || 'Moradabad'}</p>
+          </div>
+          <div class="grid grid-cols-2 gap-2 mt-3">
+            <a href="${hasPhone ? `tel:${h.phone}` : '#'}" class="text-center py-2 px-3 text-xs font-semibold rounded-xl ${hasPhone ? 'bg-red-600 text-white' : 'bg-slate-100 text-slate-400 pointer-events-none'}">
+              📞 ${hasPhone ? 'Call' : 'No Phone'}
             </a>
-            <a href="${mapUrl}" target="_blank" rel="noopener noreferrer" class="text-center py-2.5 px-3 text-xs font-semibold bg-slate-100 hover:bg-slate-200 text-slate-700 rounded-xl flex items-center justify-center gap-1.5 active:scale-95 transition">
-              <span>📍</span> Directions
+            <a href="${mapUrl}" target="_blank" rel="noopener noreferrer" class="text-center py-2 px-3 text-xs font-semibold bg-slate-100 text-slate-700 rounded-xl">
+              📍 Directions
             </a>
           </div>
         `;
@@ -285,66 +320,12 @@
       });
     }
 
-    function applyFilters() {
-      const query = document.getElementById("search").value.toLowerCase().trim();
-      const filter = document.getElementById("filter").value;
+    document.getElementById("amb-search").addEventListener("input", applyAmbulanceFilters);
+    document.getElementById("amb-filter").addEventListener("change", applyAmbulanceFilters);
 
-      let filtered = hospitals.filter(h => {
-        const nameMatch = h.name ? h.name.toLowerCase().includes(query) : false;
-        const addrMatch = h.address ? h.address.toLowerCase().includes(query) : false;
-        const typeMatch = filter === "all" || (h.category && h.category.toLowerCase() === filter);
-        return (nameMatch || addrMatch) && typeMatch;
-      });
-
-      if (userCoords) {
-        filtered.sort((a, b) => {
-          const d1 = getDistance(userCoords.lat, userCoords.lon, a.latitude, a.longitude);
-          const d2 = getDistance(userCoords.lat, userCoords.lon, b.latitude, b.longitude);
-          return d1 - d2;
-        });
-      }
-
-      renderHospitals(filtered);
-    }
-
-    // Geolocation trigger
-    document.getElementById("geo-btn").addEventListener("click", () => {
-      if (navigator.geolocation) {
-        const textEl = document.getElementById("geo-text");
-        textEl.textContent = "Locating...";
-        
-        navigator.geolocation.getCurrentPosition(
-          (pos) => {
-            userCoords = { lat: pos.coords.latitude, lon: pos.coords.longitude };
-            textEl.textContent = "Sorted by Distance";
-            document.getElementById("sort-status").textContent = "Sorted: Nearest First";
-            applyFilters();
-          },
-          () => {
-            alert("Could not access your GPS coordinates.");
-            textEl.textContent = "Near Me";
-          },
-          { enableHighAccuracy: true, timeout: 8000 }
-        );
-      } else {
-        alert("Geolocation is not supported by your browser.");
-      }
-    });
-
-    document.getElementById("search").addEventListener("input", applyFilters);
-    document.getElementById("filter").addEventListener("change", applyFilters);
-
-    // Initial load: pulls cleaned records
-    fetch("hospitals_clean.json")
-      .then(res => res.json())
-      .then(data => {
-        hospitals = data;
-        renderHospitals(hospitals);
-      })
-      .catch(err => {
-        console.error("Error loading JSON:", err);
-        document.getElementById("result-count").textContent = "Error loading database.";
-      });
+    // Initial Data Fetch
+    fetch("hospitals_clean.json").then(r => r.json()).then(d => { hospitals = d; renderHospitals(hospitals); }).catch(() => {});
+    fetch("ambulances_clean.json").then(r => r.json()).then(d => { ambulances = d; renderAmbulances(ambulances); }).catch(() => {});
   </script>
 </body>
 </html>
