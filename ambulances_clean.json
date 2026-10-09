@@ -1,0 +1,578 @@
+[
+  {
+    "id": "amb_1",
+    "name": "UP 108 Emergency Ambulance",
+    "category": "Govt",
+    "phone": "108",
+    "address": "Moradabad District / UP-wide",
+    "pricing": "Free",
+    "service_type": "Emergency ambulance",
+    "is_24x7": true,
+    "features": {
+      "oxygen": true,
+      "icu": false,
+      "als": true,
+      "intercity": true
+    }
+  },
+  {
+    "id": "amb_2",
+    "name": "UP 102 Ambulance",
+    "category": "Govt",
+    "phone": "102",
+    "address": "Moradabad District / UP-wide",
+    "pricing": "Free",
+    "service_type": "Maternity / infant ambulance",
+    "is_24x7": true,
+    "features": {
+      "oxygen": true,
+      "icu": false,
+      "als": false,
+      "intercity": true
+    }
+  },
+  {
+    "id": "amb_3",
+    "name": "Faisal Hasan Cardiac Care Ambulance",
+    "category": "Private",
+    "phone": "9917999937",
+    "address": "Siddh Multi-Speciality Hospital, Industrial Estate, Kanth Road, Harthala",
+    "pricing": "Yes",
+    "service_type": "Paid",
+    "is_24x7": true,
+    "features": {
+      "oxygen": false,
+      "icu": false,
+      "als": false,
+      "intercity": true
+    }
+  },
+  {
+    "id": "amb_4",
+    "name": "Advance Life Care Ambulance",
+    "category": "Private",
+    "phone": "9997271159",
+    "address": "Kanth Road, Majhola / New Moradabad",
+    "pricing": "Yes",
+    "service_type": "Paid",
+    "is_24x7": true,
+    "features": {
+      "oxygen": false,
+      "icu": false,
+      "als": false,
+      "intercity": true
+    }
+  },
+  {
+    "id": "amb_5",
+    "name": "Hasan Ambulance Service",
+    "category": "Private",
+    "phone": "6366951307",
+    "address": "Kanth Road, Harthala",
+    "pricing": "Yes",
+    "service_type": "Paid",
+    "is_24x7": true,
+    "features": {
+      "oxygen": false,
+      "icu": false,
+      "als": false,
+      "intercity": true
+    }
+  },
+  {
+    "id": "amb_6",
+    "name": "Shri Saawariya Seth Ambulance Service",
+    "category": "Private",
+    "phone": "8735865530",
+    "address": "District Hospital, Civil Lines",
+    "pricing": "Not confirmed",
+    "service_type": "Paid",
+    "is_24x7": true,
+    "features": {
+      "oxygen": false,
+      "icu": false,
+      "als": false,
+      "intercity": true
+    }
+  },
+  {
+    "id": "amb_7",
+    "name": "Lalit Ambulance Sewa",
+    "category": "Private",
+    "phone": "8904997564",
+    "address": "Aligarh Road, Civil Lines",
+    "pricing": "Not confirmed",
+    "service_type": "Paid",
+    "is_24x7": true,
+    "features": {
+      "oxygen": false,
+      "icu": false,
+      "als": false,
+      "intercity": true
+    }
+  },
+  {
+    "id": "amb_8",
+    "name": "Rohit Ambulance",
+    "category": "Private",
+    "phone": "8533926441",
+    "address": "Gandhi Nagar",
+    "pricing": "Yes",
+    "service_type": "Paid",
+    "is_24x7": true,
+    "features": {
+      "oxygen": false,
+      "icu": false,
+      "als": false,
+      "intercity": true
+    }
+  },
+  {
+    "id": "amb_9",
+    "name": "Moradabad Ambulance Service - Rana Ji",
+    "category": "Private",
+    "phone": "N/A",
+    "address": "Road Bez, near Banshal Hospital, Gandhi Nagar",
+    "pricing": "Yes",
+    "service_type": "Paid",
+    "is_24x7": true,
+    "features": {
+      "oxygen": false,
+      "icu": false,
+      "als": false,
+      "intercity": true
+    }
+  },
+  {
+    "id": "amb_10",
+    "name": "Saching Singh Ambulance Service",
+    "category": "Private",
+    "phone": "N/A",
+    "address": "Sunshine Hospital & Trauma Center, A31 Gandhi Nagar",
+    "pricing": "Yes",
+    "service_type": "Paid",
+    "is_24x7": true,
+    "features": {
+      "oxygen": false,
+      "icu": false,
+      "als": false,
+      "intercity": true
+    }
+  },
+  {
+    "id": "amb_11",
+    "name": "M.A Care Line",
+    "category": "Private",
+    "phone": "9045735888",
+    "address": "Vivekanand Hospital, Mora Mustahkam / Mohra Ki Milak",
+    "pricing": "Not confirmed",
+    "service_type": "Paid",
+    "is_24x7": true,
+    "features": {
+      "oxygen": false,
+      "icu": false,
+      "als": false,
+      "intercity": true
+    }
+  },
+  {
+    "id": "amb_12",
+    "name": "Mursalin Ambulance Service",
+    "category": "Private",
+    "phone": "6398818584",
+    "address": "Bright Star Hospital, Sector 16, New Moradabad",
+    "pricing": "Not confirmed",
+    "service_type": "Paid",
+    "is_24x7": true,
+    "features": {
+      "oxygen": false,
+      "icu": false,
+      "als": false,
+      "intercity": true
+    }
+  },
+  {
+    "id": "amb_13",
+    "name": "Jigyasa Hospital Ambulance",
+    "category": "Hospital",
+    "phone": "7900903333",
+    "address": "Near Miglani Cinema, Rampur Road, Gandhi Nagar",
+    "pricing": "Yes",
+    "service_type": "Paid",
+    "is_24x7": true,
+    "features": {
+      "oxygen": true,
+      "icu": true,
+      "als": true,
+      "intercity": false
+    }
+  },
+  {
+    "id": "amb_14",
+    "name": "Sri Sai Hospital Ambulance",
+    "category": "Hospital",
+    "phone": "9837095000",
+    "address": "Delhi Road, near Sai Hospital, Mansarover Colony, Line Par",
+    "pricing": "Paid",
+    "service_type": "Critical-care ambulance",
+    "is_24x7": true,
+    "features": {
+      "oxygen": true,
+      "icu": true,
+      "als": true,
+      "intercity": true
+    }
+  },
+  {
+    "id": "amb_15",
+    "name": "Asian Vivekanand Super Specialty Hospital Ambulance",
+    "category": "Hospital",
+    "phone": "0591-2551100",
+    "address": "Kanth Road",
+    "pricing": "Paid",
+    "service_type": "ICU-on-wheels / critical care",
+    "is_24x7": true,
+    "features": {
+      "oxygen": true,
+      "icu": true,
+      "als": true,
+      "intercity": true
+    }
+  },
+  {
+    "id": "amb_16",
+    "name": "Ujala Cygnus Bright Star Hospital Ambulance",
+    "category": "Hospital",
+    "phone": "9146691466",
+    "address": "Sector 16, New Moradabad",
+    "pricing": "Yes",
+    "service_type": "Paid",
+    "is_24x7": true,
+    "features": {
+      "oxygen": false,
+      "icu": true,
+      "als": true,
+      "intercity": false
+    }
+  },
+  {
+    "id": "amb_17",
+    "name": "TMU Hospital Ambulance",
+    "category": "Hospital",
+    "phone": "18005706768",
+    "address": "Bagadpur / Pakbara, Delhi Road",
+    "pricing": "Yes",
+    "service_type": "Paid",
+    "is_24x7": true,
+    "features": {
+      "oxygen": false,
+      "icu": false,
+      "als": true,
+      "intercity": true
+    }
+  },
+  {
+    "id": "amb_18",
+    "name": "Arvind All India Ambulance Service",
+    "category": "Private",
+    "phone": "N/A",
+    "address": "GMD Road, Civil Lines",
+    "pricing": "Paid",
+    "service_type": "Ambulance",
+    "is_24x7": true,
+    "features": {
+      "oxygen": false,
+      "icu": false,
+      "als": false,
+      "intercity": true
+    }
+  },
+  {
+    "id": "amb_19",
+    "name": "Sanjeev Thakur Ambulance",
+    "category": "Private",
+    "phone": "N/A",
+    "address": "Civil Lines Hospital area",
+    "pricing": "Paid",
+    "service_type": "Ambulance",
+    "is_24x7": true,
+    "features": {
+      "oxygen": false,
+      "icu": false,
+      "als": false,
+      "intercity": true
+    }
+  },
+  {
+    "id": "amb_20",
+    "name": "Madan Ambulance Service",
+    "category": "Private",
+    "phone": "N/A",
+    "address": "Civil Lines",
+    "pricing": "Paid",
+    "service_type": "Ambulance",
+    "is_24x7": true,
+    "features": {
+      "oxygen": false,
+      "icu": false,
+      "als": false,
+      "intercity": true
+    }
+  },
+  {
+    "id": "amb_21",
+    "name": "Madan Pal Ambulance Service",
+    "category": "Private",
+    "phone": "N/A",
+    "address": "Civil Lines",
+    "pricing": "Paid",
+    "service_type": "Ambulance",
+    "is_24x7": true,
+    "features": {
+      "oxygen": false,
+      "icu": false,
+      "als": false,
+      "intercity": true
+    }
+  },
+  {
+    "id": "amb_22",
+    "name": "Chhatrapal Singh Saini Ambulance",
+    "category": "Private",
+    "phone": "9917225902",
+    "address": "Durgesh Nagar",
+    "pricing": "Paid",
+    "service_type": "Ambulance",
+    "is_24x7": true,
+    "features": {
+      "oxygen": false,
+      "icu": false,
+      "als": false,
+      "intercity": true
+    }
+  },
+  {
+    "id": "amb_23",
+    "name": "Satyapal Singh Ambulance",
+    "category": "Private",
+    "phone": "N/A",
+    "address": "Court Road",
+    "pricing": "Paid",
+    "service_type": "Ambulance",
+    "is_24x7": true,
+    "features": {
+      "oxygen": false,
+      "icu": false,
+      "als": false,
+      "intercity": true
+    }
+  },
+  {
+    "id": "amb_24",
+    "name": "Naresh Goswami Ambulance Service",
+    "category": "Private",
+    "phone": "N/A",
+    "address": "Delhi Road",
+    "pricing": "Paid",
+    "service_type": "Ambulance",
+    "is_24x7": true,
+    "features": {
+      "oxygen": false,
+      "icu": false,
+      "als": false,
+      "intercity": true
+    }
+  },
+  {
+    "id": "amb_25",
+    "name": "Ambulance & Omni Van",
+    "category": "Private",
+    "phone": "N/A",
+    "address": "Civil Lines",
+    "pricing": "Paid",
+    "service_type": "Ambulance",
+    "is_24x7": true,
+    "features": {
+      "oxygen": false,
+      "icu": false,
+      "als": false,
+      "intercity": true
+    }
+  },
+  {
+    "id": "amb_26",
+    "name": "Danish Ambulance Services",
+    "category": "Private",
+    "phone": "9412392454",
+    "address": "Harthala / Kanth Road",
+    "pricing": "Paid",
+    "service_type": "Ambulance",
+    "is_24x7": true,
+    "features": {
+      "oxygen": false,
+      "icu": false,
+      "als": false,
+      "intercity": true
+    }
+  },
+  {
+    "id": "amb_27",
+    "name": "Aalam Ambulance Service",
+    "category": "Private",
+    "phone": "N/A",
+    "address": "Kanth Road / New Moradabad",
+    "pricing": "Paid",
+    "service_type": "Ambulance",
+    "is_24x7": true,
+    "features": {
+      "oxygen": false,
+      "icu": false,
+      "als": false,
+      "intercity": true
+    }
+  },
+  {
+    "id": "amb_28",
+    "name": "247 TMU Ambulance Services",
+    "category": "Private",
+    "phone": "N/A",
+    "address": "Delhi Road / Pakbara",
+    "pricing": "Paid",
+    "service_type": "Ambulance",
+    "is_24x7": true,
+    "features": {
+      "oxygen": false,
+      "icu": false,
+      "als": false,
+      "intercity": true
+    }
+  },
+  {
+    "id": "amb_29",
+    "name": "Boby Ambulance Service",
+    "category": "Private",
+    "phone": "N/A",
+    "address": "Moradabad",
+    "pricing": "Paid",
+    "service_type": "Ambulance",
+    "is_24x7": true,
+    "features": {
+      "oxygen": false,
+      "icu": false,
+      "als": false,
+      "intercity": true
+    }
+  },
+  {
+    "id": "amb_30",
+    "name": "Intensive Ambulance Service",
+    "category": "Private",
+    "phone": "N/A",
+    "address": "Moradabad",
+    "pricing": "Paid",
+    "service_type": "Ambulance",
+    "is_24x7": true,
+    "features": {
+      "oxygen": false,
+      "icu": false,
+      "als": false,
+      "intercity": true
+    }
+  },
+  {
+    "id": "amb_31",
+    "name": "Aman Ambulance",
+    "category": "Private",
+    "phone": "N/A",
+    "address": "Moradabad",
+    "pricing": "Paid",
+    "service_type": "Ambulance",
+    "is_24x7": true,
+    "features": {
+      "oxygen": false,
+      "icu": false,
+      "als": false,
+      "intercity": true
+    }
+  },
+  {
+    "id": "amb_32",
+    "name": "Raza Hospital Ambulance",
+    "category": "Private",
+    "phone": "N/A",
+    "address": "Raza Hospital",
+    "pricing": "Paid",
+    "service_type": "Hospital ambulance",
+    "is_24x7": true,
+    "features": {
+      "oxygen": false,
+      "icu": false,
+      "als": false,
+      "intercity": true
+    }
+  },
+  {
+    "id": "amb_33",
+    "name": "Select Hospital Ambulance",
+    "category": "Private",
+    "phone": "8057532000",
+    "address": "Mini Bypass / RTO area",
+    "pricing": "Paid",
+    "service_type": "Hospital ambulance",
+    "is_24x7": true,
+    "features": {
+      "oxygen": false,
+      "icu": false,
+      "als": false,
+      "intercity": true
+    }
+  },
+  {
+    "id": "amb_34",
+    "name": "Sultan Hospital Ambulance",
+    "category": "Private",
+    "phone": "N/A",
+    "address": "Karula",
+    "pricing": "Paid",
+    "service_type": "Hospital ambulance",
+    "is_24x7": true,
+    "features": {
+      "oxygen": false,
+      "icu": false,
+      "als": false,
+      "intercity": true
+    }
+  },
+  {
+    "id": "amb_35",
+    "name": "Crest Hospital Ambulance",
+    "category": "Private",
+    "phone": "N/A",
+    "address": "Kanth Road",
+    "pricing": "Paid",
+    "service_type": "Hospital ambulance",
+    "is_24x7": true,
+    "features": {
+      "oxygen": false,
+      "icu": false,
+      "als": false,
+      "intercity": true
+    }
+  },
+  {
+    "id": "amb_36",
+    "name": "Devraj Ambulance",
+    "category": "Private",
+    "phone": "8077638733",
+    "address": "Gandhi Nagar",
+    "pricing": "Paid",
+    "service_type": "Ambulance",
+    "is_24x7": true,
+    "features": {
+      "oxygen": false,
+      "icu": false,
+      "als": false,
+      "intercity": false
+    }
+  }
+]
